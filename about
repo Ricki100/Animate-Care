@@ -36,10 +36,10 @@
     <a class="skip-link" href="#main">Skip to content</a>
     <header class="site-header">
       <nav class="nav-shell" aria-label="Main navigation">
-        <a class="brand" href="index.html"><img src="animate%20logo.svg" alt="Animate Social Care logo" width="1033" height="889" /></a>
+        <a class="brand" href="index.html"><img src="ANIMATE%20HORIZONTAL.svg" alt="Animate Social Care logo" width="184" height="63" /></a>
         <button class="nav-toggle" type="button" data-nav-toggle aria-expanded="false" aria-controls="nav-links">Menu</button>
         <div class="nav-links" id="nav-links" data-nav-links>
-          <a href="about" aria-current="page">About</a><a href="our-home">Our Home</a><a href="services">Services</a><a href="referrals">Referrals</a><a href="careers">Careers</a><a href="contact">Contact</a><a class="button" href="referrals">Make a Referral</a>
+          <a href="about" aria-current="page">About</a><a href="our-home">Our Home</a><a href="services">Services</a><a href="referrals">Referrals</a><a href="careers">Careers</a><a href="contact">Contact</a><a class="button" href="contact#contact-form">Make a Referral</a>
         </div>
       </nav>
     </header>
@@ -49,10 +49,10 @@
         <div class="hero-inner">
           <div class="hero-copy">
             <p class="eyebrow">About Animate Care</p>
-            <h1>Who we are and why we do this</h1>
+            <h1 class="balanced-heading">Who we are and<br />why we do this</h1>
             <p>Animate Care was founded on a simple belief: every young person deserves consistent, compassionate support from people who genuinely care.</p>
             <div class="hero-actions">
-              <a class="button" href="referrals">Make a Referral</a>
+              <a class="button" href="contact#contact-form">Make a Referral</a>
               <a class="button secondary" href="contact">Speak to Our Team</a>
             </div>
           </div>
@@ -73,13 +73,29 @@
           <p>Our therapeutic approach is grounded in the PACE model, developed by Dr Daniel Hughes. PACE recognises that children who have experienced trauma need safety, connection and understanding before they can grow.</p>
           <p>We also embed restorative practice. When things go wrong, we focus on understanding, repair and learning, not punishment.</p>
         </div>
-        <div>
-          <div class="pace-grid" aria-label="PACE model">
-            <div><strong>P</strong><h3>Playfulness</h3><p>Warmth and safe connection.</p></div>
-            <div><strong>A</strong><h3>Acceptance</h3><p>Seeing the child beyond behaviour.</p></div>
-            <div><strong>C</strong><h3>Curiosity</h3><p>Asking what sits underneath.</p></div>
-            <div><strong>E</strong><h3>Empathy</h3><p>Meeting feelings with care.</p></div>
+        <div class="pace-panel" data-pace-panel>
+          <div class="pace-grid" role="tablist" aria-label="PACE model">
+            <button class="pace-card is-active" type="button" role="tab" aria-selected="true" data-pace-tab data-title="Playfulness" data-letter="P" data-copy="Warmth, lightness and safe connection help children experience adults as approachable, steady and human." data-example="In practice: staff use gentle humour, shared activities and warm tone to lower anxiety without minimising feelings.">
+              <span>P</span><strong>Playfulness</strong><small>Warmth and safe connection.</small>
+            </button>
+            <button class="pace-card" type="button" role="tab" aria-selected="false" data-pace-tab data-title="Acceptance" data-letter="A" data-copy="Acceptance separates the child from the behaviour, helping young people feel seen without shame." data-example="In practice: staff acknowledge feelings first, then work with the child to understand choices and repair harm.">
+              <span>A</span><strong>Acceptance</strong><small>Seeing the child beyond behaviour.</small>
+            </button>
+            <button class="pace-card" type="button" role="tab" aria-selected="false" data-pace-tab data-title="Curiosity" data-letter="C" data-copy="Curiosity asks what sits underneath behaviour, rather than jumping straight to correction or consequence." data-example="In practice: staff ask thoughtful, non-judgemental questions and look for unmet needs, triggers and worries.">
+              <span>C</span><strong>Curiosity</strong><small>Asking what sits underneath.</small>
+            </button>
+            <button class="pace-card" type="button" role="tab" aria-selected="false" data-pace-tab data-title="Empathy" data-letter="E" data-copy="Empathy meets difficult feelings with care, helping children feel understood before they are asked to move forward." data-example="In practice: staff name emotions, stay regulated and offer reassurance while boundaries remain clear.">
+              <span>E</span><strong>Empathy</strong><small>Meeting feelings with care.</small>
+            </button>
           </div>
+          <article class="pace-detail" role="tabpanel" data-pace-detail>
+            <span data-pace-letter>P</span>
+            <div>
+              <h3 data-pace-title>Playfulness</h3>
+              <p data-pace-copy>Warmth, lightness and safe connection help children experience adults as approachable, steady and human.</p>
+              <p data-pace-example>In practice: staff use gentle humour, shared activities and warm tone to lower anxiety without minimising feelings.</p>
+            </div>
+          </article>
         </div>
       </section>
 
@@ -161,4 +177,8 @@
       </section>    </main>
 
     <footer class="site-footer"><div class="footer-inner"><div class="footer-grid"><div><img class="footer-logo" src="animate%20logo.svg" alt="Animate Social Care logo" width="1033" height="889" /><p>Therapeutic residential care for children aged 8-17 with emotional and behavioural difficulties.</p><p class="legal-note">Images are illustrative and do not depict residents of Animate Care.</p></div><div><h3>Pages</h3><a href="our-home">Our Home</a><a href="services">Services</a><a href="referrals">Referrals</a><a href="leadership">Leadership</a></div><div><h3>Contact</h3><a href="tel:+441184400118">0118 440 0118</a><a href="mailto:info@animatecare.co.uk">info@animatecare.co.uk</a><a href="mailto:careers@animatecare.co.uk">careers@animatecare.co.uk</a></div><div><h3>Regulated Care</h3><p>Ofsted regulated children's home operating under the Children's Homes (England) Regulations 2015.</p></div></div><div class="footer-bottom"><span>Animate Care.</span><span><a href="contact">Contact</a></span></div></div></footer>
-    <script src="https://cdn.jsdelivr.net/npm/gsap
+    <script src="script.js" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js" defer></script>
+  </body>
+</html>

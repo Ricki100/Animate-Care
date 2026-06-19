@@ -22,7 +22,7 @@
   </head>
   <body>
     <a class="skip-link" href="#main">Skip to content</a>
-    <header class="site-header"><nav class="nav-shell" aria-label="Main navigation"><a class="brand" href="index.html"><img src="animate%20logo.svg" alt="Animate Social Care logo" width="1033" height="889" /></a><button class="nav-toggle" type="button" data-nav-toggle aria-expanded="false" aria-controls="nav-links">Menu</button><div class="nav-links" id="nav-links" data-nav-links><a href="about">About</a><a href="our-home">Our Home</a><a href="services" aria-current="page">Services</a><a href="referrals">Referrals</a><a href="careers">Careers</a><a href="contact">Contact</a><a class="button" href="referrals">Make a Referral</a></div></nav></header>
+    <header class="site-header"><nav class="nav-shell" aria-label="Main navigation"><a class="brand" href="index.html"><img src="ANIMATE%20HORIZONTAL.svg" alt="Animate Social Care logo" width="184" height="63" /></a><button class="nav-toggle" type="button" data-nav-toggle aria-expanded="false" aria-controls="nav-links">Menu</button><div class="nav-links" id="nav-links" data-nav-links><a href="about">About</a><a href="our-home">Our Home</a><a href="services" aria-current="page">Services</a><a href="referrals">Referrals</a><a href="careers">Careers</a><a href="contact">Contact</a><a class="button" href="contact#contact-form">Make a Referral</a></div></nav></header>
     <main id="main">
       <section class="hero" style="--hero-image: url('images/woman-teaching-her-student-origami.webp')"><div class="hero-inner"><div class="hero-copy"><p class="eyebrow">Our services</p><h1>Therapeutic care that supports the whole child</h1><p>Our service is designed for children and young people aged 8 to 17 who need safe residential care, emotional support, structure and patient adults who stay alongside them.</p><div class="hero-actions"><a class="button" href="referrals">Refer a Young Person</a><a class="button secondary" href="contact">Ask a Question</a></div></div></div></section>
       <nav class="service-nav" aria-label="Service sections"><a href="#therapeutic-care">Therapeutic care</a><a href="#staffing">24/7 staffing</a><a href="#education">Education</a><a href="#health">Health</a><a href="#family-contact">Family contact</a><a href="#life-skills">Life skills</a><a href="#safeguarding">Safeguarding</a></nav>
@@ -50,8 +50,8 @@
         </div>
       </section>    </main>
     <footer class="site-footer"><div class="footer-inner"><div class="footer-grid"><div><img class="footer-logo" src="animate%20logo.svg" alt="Animate Social Care logo" width="1033" height="889" /><p>Therapeutic residential care for children aged 8-17 with emotional and behavioural difficulties.</p><p class="legal-note">Images are illustrative and do not depict residents of Animate Care.</p></div><div><h3>Pages</h3><a href="about">About</a><a href="our-home">Our Home</a><a href="referrals">Referrals</a><a href="leadership">Leadership</a></div><div><h3>Contact</h3><a href="tel:+441184400118">0118 440 0118</a><a href="mailto:info@animatecare.co.uk">info@animatecare.co.uk</a><a href="mailto:careers@animatecare.co.uk">careers@animatecare.co.uk</a></div><div><h3>Regulated Care</h3><p>Ofsted regulated children's home operating under the Children's Homes (England) Regulations 2015.</p></div></div><div class="footer-bottom"><span>Animate Care.</span><span><a href="contact">Contact</a></span></div></div></footer>
+    <script src="script.js" defer></script>
     <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js" defer></script>
     <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js" defer></script>
-    <script src="script.js" defer></script>
   </body>
 </html>

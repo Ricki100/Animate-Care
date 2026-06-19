@@ -1,11 +1,15 @@
 const navToggle = document.querySelector("[data-nav-toggle]");
 const navLinks = document.querySelector("[data-nav-links]");
+const siteHeader = document.querySelector(".site-header");
 
 if (navToggle && navLinks) {
+  navToggle.setAttribute("aria-label", "Open navigation menu");
+
   navToggle.addEventListener("click", () => {
     const isOpen = navLinks.classList.toggle("is-open");
     document.body.classList.toggle("nav-open", isOpen);
     navToggle.setAttribute("aria-expanded", String(isOpen));
+    navToggle.setAttribute("aria-label", isOpen ? "Close navigation menu" : "Open navigation menu");
     navToggle.textContent = isOpen ? "Close" : "Menu";
   });
 
@@ -14,12 +18,28 @@ if (navToggle && navLinks) {
       navLinks.classList.remove("is-open");
       document.body.classList.remove("nav-open");
       navToggle.setAttribute("aria-expanded", "false");
+      navToggle.setAttribute("aria-label", "Open navigation menu");
       navToggle.textContent = "Menu";
     });
   });
 }
 
 const prefersReducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+function setupShrinkingHeader() {
+  if (!siteHeader) return;
+
+  const updateHeader = () => {
+    const isScrolled = window.scrollY > 18;
+    siteHeader.classList.toggle("is-scrolled", isScrolled);
+    document.body.classList.toggle("header-scrolled", isScrolled);
+  };
+
+  updateHeader();
+  window.addEventListener("scroll", updateHeader, { passive: true });
+}
+
+setupShrinkingHeader();
 
 function setupCursor() {
   if (prefersReducedMotion || !window.matchMedia("(pointer: fine)").matches) return;
@@ -80,7 +100,7 @@ function setupMotion() {
   if (prefersReducedMotion) return;
 
   const revealTargets = document.querySelectorAll(
-    ".section > *, .quote-band, .card, .feature, .role, .contact-panel, .image-panel, .trust-item"
+    ".section > *, .quote-band, .card, .feature, .role, .contact-panel, .image-panel"
   );
 
   if (window.gsap && window.ScrollTrigger) {
@@ -193,9 +213,44 @@ function setupForms() {
         }
       } catch (error) {
         if (status) {
-          status.textContent = "The form could not send. Please call 0118 440 0118 or email info@radiantcarehomes.co.uk.";
+          status.textContent = "The form could not send. Please call 0118 440 0118 or email info@animatecare.co.uk.";
         }
       }
+    });
+  });
+}
+
+function setupPacePanels() {
+  document.querySelectorAll("[data-pace-panel]").forEach((panel) => {
+    const tabs = Array.from(panel.querySelectorAll("[data-pace-tab]"));
+    const letter = panel.querySelector("[data-pace-letter]");
+    const title = panel.querySelector("[data-pace-title]");
+    const copy = panel.querySelector("[data-pace-copy]");
+    const example = panel.querySelector("[data-pace-example]");
+
+    const activate = (tab) => {
+      tabs.forEach((item) => {
+        const isActive = item === tab;
+        item.classList.toggle("is-active", isActive);
+        item.setAttribute("aria-selected", String(isActive));
+      });
+
+      if (letter) letter.textContent = tab.dataset.letter || "";
+      if (title) title.textContent = tab.dataset.title || "";
+      if (copy) copy.textContent = tab.dataset.copy || "";
+      if (example) example.textContent = tab.dataset.example || "";
+    };
+
+    tabs.forEach((tab, index) => {
+      tab.addEventListener("click", () => activate(tab));
+      tab.addEventListener("keydown", (event) => {
+        if (!["ArrowRight", "ArrowDown", "ArrowLeft", "ArrowUp"].includes(event.key)) return;
+        event.preventDefault();
+        const direction = event.key === "ArrowRight" || event.key === "ArrowDown" ? 1 : -1;
+        const next = tabs[(index + direction + tabs.length) % tabs.length];
+        next.focus();
+        activate(next);
+      });
     });
   });
 }
@@ -205,4 +260,5 @@ window.addEventListener("DOMContentLoaded", () => {
   setupScrollProgress();
   setupMotion();
   setupForms();
+  setupPacePanels();
 });
