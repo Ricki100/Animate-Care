@@ -1,0 +1,1748 @@
+ 
+ left -594360 0 0 
+ 
+ Contents 
+ TOC \o "1-3" \h \z \u 1 Introduction PAGEREF _Toc232690936 \h 5 
+ 2 Purpose of the Home PAGEREF _Toc232690937 \h 5 
+ 3 Ethos and Philosophy of Care PAGEREF _Toc232690938 \h 5 
+ Core Practice Identity PAGEREF _Toc232690939 \h 6 
+ 4. Therapeutic Model of Care PAGEREF _Toc232690940 \h 7 
+ 4.1 Relationship-Based and Trauma-Informed Practice PAGEREF _Toc232690941 \h 7 
+ 4.2 PACE and Dyadic Developmental Practice (DDP) PAGEREF _Toc232690942 \h 7 
+ 4.3 Working With Children Rather Than Doing to Them PAGEREF _Toc232690943 \h 8 
+ 4.5 Understanding the Teenage Brain PAGEREF _Toc232690944 \h 9 
+ 4.6 Restorative and Reflective Practice PAGEREF _Toc232690945 \h 10 
+ 5. Safeguarding and Protection of Children PAGEREF _Toc232690946 \h 11 
+ Safeguarding Philosophy PAGEREF _Toc232690947 \h 11 
+ Child Protection PAGEREF _Toc232690948 \h 12 
+ Contextual Safeguarding PAGEREF _Toc232690949 \h 12 
+ Child Sexual Exploitation, Child Criminal Exploitation and Serious Youth Violence PAGEREF _Toc232690950 \h 13 
+ Missing From Care PAGEREF _Toc232690951 \h 14 
+ Risk Assessment and Safety Planning PAGEREF _Toc232690952 \h 15 
+ Online Safety PAGEREF _Toc232690953 \h 15 
+ Home Security and Surveillance PAGEREF _Toc232690954 \h 16 
+ Emergency and Fire Safety PAGEREF _Toc232690955 \h 17 
+ 6. Children's Participation, Wishes and Feelings PAGEREF _Toc232690956 \h 17 
+ Promoting Children's Voice PAGEREF _Toc232690957 \h 17 
+ Building Trust and Communication PAGEREF _Toc232690958 \h 18 
+ Key Work and Individual Support PAGEREF _Toc232690959 \h 19 
+ House Meetings PAGEREF _Toc232690960 \h 19 
+ Advocacy PAGEREF _Toc232690961 \h 20 
+ Equality, Diversity, and Inclusion PAGEREF _Toc232690962 \h 20 
+ Complaints and Concerns PAGEREF _Toc232690963 \h 21 
+ 7. Education, Health, Emotional Wellbeing, and Independence PAGEREF _Toc232690964 \h 22 
+ Promoting Positive Outcomes PAGEREF _Toc232690965 \h 22 
+ Education and Learning PAGEREF _Toc232690966 \h 22 
+ Emotional Health and Wellbeing PAGEREF _Toc232690967 \h 23 
+ Physical Health PAGEREF _Toc232690968 \h 24 
+ Identity, Self-Esteem, and Personal Development PAGEREF _Toc232690969 \h 24 
+ Independence and Preparation for Adulthood PAGEREF _Toc232690970 \h 25 
+ Supporting Care Leavers and Future Planning PAGEREF _Toc232690971 \h 26 
+ Celebrating Progress and Achievement PAGEREF _Toc232690972 \h 27 
+ 8. Positive Relationships, Family Time, and Community Integration PAGEREF _Toc232690973 \h 27 
+ The Importance of Relationships PAGEREF _Toc232690974 \h 27 
+ Family Time and Maintaining Connections PAGEREF _Toc232690975 \h 28 
+ Supporting Identity and Belonging PAGEREF _Toc232690976 \h 29 
+ Friendships and Peer Relationships PAGEREF _Toc232690977 \h 29 
+ Community Participation PAGEREF _Toc232690978 \h 30 
+ Trusted Adults and Lifelong Relationships PAGEREF _Toc232690979 \h 31 
+ 9. Admissions, Matching and Care Planning PAGEREF _Toc232690980 \h 31 
+ Admissions Philosophy PAGEREF _Toc232690981 \h 31 
+ Children the Home is Registered to Support PAGEREF _Toc232690982 \h 32 
+ Referral and Assessment Process PAGEREF _Toc232690983 \h 32 
+ Matching Considerations PAGEREF _Toc232690984 \h 33 
+ Emergency Admissions PAGEREF _Toc232690985 \h 34 
+ Planned Admissions and Transitions PAGEREF _Toc232690986 \h 34 
+ Care Planning PAGEREF _Toc232690987 \h 35 
+ Risk Assessment and Review PAGEREF _Toc232690988 \h 36 
+ Placement Stability and Review PAGEREF _Toc232690989 \h 36 
+ 10. Staffing, Recruitment, Training and Professional Development PAGEREF _Toc232690990 \h 37 
+ Workforce Philosophy PAGEREF _Toc232690991 \h 37 
+ Recruitment and Selection PAGEREF _Toc232690992 \h 37 
+ Induction PAGEREF _Toc232690993 \h 38 
+ Training and Development PAGEREF _Toc232690994 \h 39 
+ Understanding Adolescents and Trauma PAGEREF _Toc232690995 \h 40 
+ Supervision and Reflective Practice PAGEREF _Toc232690996 \h 40 
+ Team Meetings PAGEREF _Toc232690997 \h 41 
+ Use of Agency Staff PAGEREF _Toc232690998 \h 41 
+ Staff Wellbeing PAGEREF _Toc232690999 \h 42 
+ Professional Accountability PAGEREF _Toc232691000 \h 42 
+ 11. Leadership, Management and Quality Assurance PAGEREF _Toc232691001 \h 43 
+ Leadership and Management Philosophy PAGEREF _Toc232691002 \h 43 
+ The Role of the Registered Manager PAGEREF _Toc232691003 \h 43 
+ Creating a Learning Culture PAGEREF _Toc232691004 \h 44 
+ Quality Assurance and Monitoring PAGEREF _Toc232691005 \h 44 
+ Children's Views and Service Development PAGEREF _Toc232691006 \h 45 
+ Regulation 44 Independent Visits PAGEREF _Toc232691007 \h 46 
+ Regulation 45 Quality of Care Reviews PAGEREF _Toc232691008 \h 46 
+ Multi-Agency Partnership Working PAGEREF _Toc232691009 \h 47 
+ Managing Complaints, Concerns and Allegations PAGEREF _Toc232691010 \h 47 
+ Continuous Improvement PAGEREF _Toc232691011 \h 48 
+ 12. Home Environment and Accommodation PAGEREF _Toc232691012 \h 48 
+ Creating a Safe and Nurturing Home PAGEREF _Toc232691013 \h 48 
+ Location PAGEREF _Toc232691014 \h 49 
+ Bedrooms and Personal Space PAGEREF _Toc232691015 \h 49 
+ Communal Areas PAGEREF _Toc232691016 \h 50 
+ Outdoor Space PAGEREF _Toc232691017 \h 50 
+ Accessibility and Inclusion PAGEREF _Toc232691018 \h 51 
+ Safety and Security PAGEREF _Toc232691019 \h 51 
+ Maintaining a Sense of Home PAGEREF _Toc232691020 \h 51 
+ 13. Registered Provider Information PAGEREF _Toc232691021 \h 52 
+ Registered Provider PAGEREF _Toc232691022 \h 52 
+ Responsible Individual PAGEREF _Toc232691023 \h 53 
+ Registered Manager PAGEREF _Toc232691024 \h 55 
+ Ofsted PAGEREF _Toc232691025 \h 57 
+ Ofsted PAGEREF _Toc232691026 \h 57 
+ Review of the Statement of Purpose PAGEREF _Toc232691027 \h 57 
+ 14. Conclusion PAGEREF _Toc232691028 \h 58 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ STATEMENT OF PURPOSE 
+ 
+ 1 Introduction 
+ 
+ This Statement of Purpose is produced in accordance with the Children’s Homes (England) Regulations 2015 and associated Quality Standards. It describes the aims, ethos, and operational arrangements of Mardle Children’s Home, delivered by Animate Social Care. 
+ 
+ The welfare of children is at the centre of all practice. The home is committed to providing safe, stable, and nurturing care that promotes emotional security, resilience, positive identity, and long-term improved outcomes for children and young people. 
+ 
+ This Statement of Purpose reflects a trauma-informed and relationship-based model of care. Practice is underpinned by the understanding that many children who come into residential care have experienced disrupted attachment, adversity, exploitation, loss, and inconsistent caregiving. 
+ 
+ 2 Purpose of the Home 
+ 
+ Mardle Children’s Home provides care and accommodation for up to two children and young people aged 8–17 years. 
+ 
+ The home supports children who present with a range of social, emotional, and mental health needs (SEMH), including those linked to trauma, attachment difficulties, emotional dysregulation, and experiences of contextual risk including exploitation. 
+ 
+ The home is designed to provide consistent, structured, and therapeutic care within a relationship-based environment where children can experience safety, stability, and predictable boundaries. 
+ 
+ Children are supported regardless of their race, religion, culture, disability, gender identity, sexual orientation, or neurodiversity. 
+ 3 Ethos and Philosophy of Care 
+ 
+ The ethos of the home is grounded in the belief that children and young people are best supported through consistent relationships, clear boundaries, and a deep understanding of developmental trauma and adolescent behaviour. 
+ 
+ Practice is built on the principle that behaviour communicates need, and that children’s responses must be understood within the context of their developmental stage, lived experience, and relational history. 
+ 
+ The home operates a relational and trauma-informed approach which recognises that: 
+ 
+ Trust is developed through consistency rather than instruction. 
+ Boundaries are a form of care, not punishment. 
+ Relationships are central to change. 
+ Children may reject care while simultaneously needing it. 
+ Repair following rupture is a key part of emotional development. 
+ 
+ Staff are expected to provide care that is both emotionally available and firmly boundaried. Children are supported through predictable responses, professional consistency, and reflective practice. 
+ 
+ Core Practice Identity 
+ 
+ The home’s practice is underpinned by a belief that adolescents require both connection and containment to develop safely. 
+ 
+ Children are supported by staff who understand that: 
+ Adolescence is a developmental stage characterised by heightened emotional intensity, risk-taking, and identity formation. 
+ Behaviour must be interpreted developmentally, not solely punitively. 
+ Safety and relationship can exist simultaneously, even during periods of conflict. 
+ Professional consistency creates emotional security over time. 
+ 
+ The home is committed to providing care that is relational, thoughtful, and informed by an understanding of trauma, attachment, and adolescent development. 
+ 
+ 4. Therapeutic Model of Care 
+ 4.1 Relationship-Based and Trauma-Informed Practice 
+ 
+ Animate Social Care recognises that many children who come into residential care have experienced adversity, disrupted attachments, trauma, loss, neglect, exploitation, and significant relational harm. These experiences often affect a child's ability to trust adults, regulate emotions, form healthy relationships, and maintain a positive sense of identity. 
+ 
+ Our approach is rooted in relationship-based practice. We recognise that meaningful and lasting change occurs through safe, consistent, and trusting relationships. The staff team are committed to providing children with experiences that promote emotional security, resilience, and a renewed sense of belonging. 
+ 
+ We work in partnership with children, their families where appropriate, social workers, education providers, health professionals, and other agencies to ensure that care is holistic, coordinated, and responsive to individual need. 
+ 
+ The home operates a trauma-informed model of care which seeks to understand the reasons behind behaviour rather than focusing solely on the behaviour itself. Staff are encouraged to remain curious, reflective, and compassionate when supporting children through periods of distress, challenge, or uncertainty. 
+ 
+ Children are supported to develop insight into their thoughts, feelings, and behaviours, helping them make sense of their experiences and develop healthier ways of managing adversity. 
+ 
+ 4.2 PACE and Dyadic Developmental Practice (DDP) 
+ 
+ The home's therapeutic approach is underpinned by the PACE model and principles of Dyadic Developmental Practice (DDP). 
+ 
+ PACE promotes: 
+ 
+ Playfulness 
+ Acceptance 
+ Curiosity 
+ Empathy 
+ 
+ These principles guide everyday interactions between staff and children and support the development of secure attachments, emotional regulation, and healthy relationships. 
+ 
+ Children who have experienced trauma frequently communicate distress through behaviour rather than words. PACE enables staff to remain connected to the child whilst maintaining appropriate boundaries and expectations. 
+ 
+ The model encourages staff to: 
+ 
+ Remain emotionally available during periods of distress. 
+ Understand behaviour as communication. 
+ Promote emotional safety. 
+ Support children to explore feelings without fear of judgement. 
+ Build trust through consistency and authenticity. 
+ 
+ The principles of PACE are embedded throughout daily practice, care planning, key work, behaviour support, safeguarding interventions, and multi-agency collaboration. 
+ 
+ 4.3 Working With Children Rather Than Doing to Them 
+ 
+ 4.4 Collaborative Problem Solving and Co-Production 
+ 
+ Animate Social Care believes children and young people should be active participants in decisions affecting their lives. 
+ 
+ Our philosophy is one of working with children rather than doing things to them. 
+ 
+ The home operates an open-door culture where children are encouraged to approach staff, discuss concerns, challenge decisions respectfully and contribute meaningfully to plans which affect their lives. 
+ 
+ We recognise that children are more likely to engage positively with plans they understand, influence, and feel ownership of. Wherever possible, children are therefore involved in developing the plans and strategies designed to support them. 
+ 
+ This may include: 
+ 
+ Care planning. 
+ Risk assessments and risk management. 
+ Safety planning. 
+ Independence planning. 
+ House meetings. 
+ Activity planning. 
+ Reviews and professional meetings where appropriate. 
+ 
+ Staff are encouraged to engage children in open, honest, and transparent conversations about concerns, risks, expectations, and decision-making. Children are invited to share their views, identify what is important to them and contribute to finding solutions. 
+ 
+ Staff are equally open about professional responsibilities, safeguarding duties, and situations where certain boundaries cannot be compromised. The focus of discussion is not whether children are kept safe, but how adults and children can work together to achieve safety, stability and positive outcomes in ways that are meaningful and achievable for the child. 
+ 
+ This approach reduces unnecessary power struggles, promotes mutual respect, and helps children understand the reasons behind professional decision-making. 
+ 
+ Experience has consistently shown that children are more likely to engage with plans they have helped to create than those which are simply imposed upon them. Co-production therefore forms a central part of care planning, safety planning, independence work, and daily practice within the home. 
+ 
+ Where restrictions or safeguarding measures are required, staff will explain the reasons for these decisions and seek to involve children wherever possible. We believe that understanding promotes cooperation, preserves dignity, and strengthens relationships. 
+ 
+ The home believes that effective safeguarding and positive relationships are not opposing concepts. Children can be given a meaningful voice whilst adults retain responsibility for keeping them safe. 
+ 
+ Children should know where they stand with the adults caring for them and understand both the support available to them and the boundaries that exist to keep them safe. 
+ 
+ This approach is adapted according to each child's age, understanding, communication style and developmental stage, ensuring that all children can participate meaningfully in decisions affecting their lives. 
+ 
+ 4.5 Understanding the Teenage Brain 
+ 
+ The home places significant importance on understanding child and adolescent development, recognising that children's emotional, social, and cognitive development may differ from their chronological age due to trauma, attachment disruption, neurodiversity, exploitation, or adverse childhood experiences. 
+ Expectations, consequences, rewards, and interventions are tailored to the child's age, understanding, and developmental presentation. 
+ 
+ The teenage years represent a period of rapid neurological, emotional, and social change. During this stage of development, children often demonstrate: 
+ 
+ Increased impulsivity. 
+ Heightened emotional responses. 
+ Greater sensitivity to peer influence. 
+ Increased risk-taking behaviour. 
+ Developing consequential thinking. 
+ Identity exploration. 
+ A growing desire for independence and autonomy. 
+ Understanding these developmental processes shapes the way staff respond to behaviour. 
+ 
+ We recognise that adolescents can appear capable and mature in some situations whilst requiring significant guidance and support in others. Behaviour which may appear irrational, challenging, or oppositional is often linked to normal developmental processes, compounded by previous trauma or adverse experiences. 
+ 
+ This understanding encourages staff to remain curious rather than punitive, reflective rather than reactive, and supportive whilst maintaining clear boundaries. 
+ 
+ Containment and boundary setting remain essential components of adolescent development. Although boundaries may be challenged or resisted, they provide predictability, consistency, and emotional safety. 
+ 
+ Children need to know where they stand with the adults caring for them. Consistent responses, clear expectations, and reliable relationships help young people develop trust, emotional security, and confidence in those supporting them. 
+ Whilst the home has considerable expertise in supporting adolescents, practice is adapted to meet each child's individual developmental stage and presenting needs. 
+ 
+ Our role is not simply to manage behaviour but to help children understand themselves, develop emotional regulation and make sense of the world around them. 
+ 
+ 4.6 Restorative and Reflective Practice 
+ 
+ Animate adopts a restorative approach to behaviour support and relationship building. 
+ We believe children are more than the mistakes they make. 
+ Whilst concerning patterns of behaviour are identified, assessed, and managed appropriately, children are supported to understand that opportunities for repair, learning and growth are always available. 
+ 
+ The focus is on: 
+ 
+ Reflection. 
+ Accountability. 
+ Learning. 
+ Repairing relationships. 
+ Restoring trust. 
+ 
+ Consequences, where necessary, will be proportionate, meaningful, and focused on helping children understand the impact of their actions rather than creating shame. 
+ Children are supported to make amends in ways that are achievable, constructive, and developmentally appropriate. 
+ 
+ Following incidents, restorative conversations provide opportunities for children and staff to reflect together, understand what happened and consider how similar situations may be managed differently in the future. 
+ 
+ The home promotes a culture where mistakes become opportunities for learning and where positive relationships can survive difficult moments. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5. Safeguarding and Protection of Children 
+ Safeguarding Philosophy 
+ 
+ The welfare and safety of children is paramount in all aspects of service delivery. 
+ 
+ Animate Social Care recognises that safeguarding extends beyond protecting children from immediate harm. Effective safeguarding requires adults to understand the wider contexts in which children live, develop relationships and experience risk. 
+ 
+ We recognise that children who have experienced trauma, adversity, disrupted attachments, exploitation, or neglect may not always recognise danger, may minimise concerns or may actively resist intervention from adults seeking to protect them. 
+ 
+ Our role is to remain professionally curious, persistent, and child-centred whilst maintaining a clear focus on safety and welfare. 
+ 
+ Children are supported to understand that safeguarding measures are not punitive but are implemented because they are valued, important and deserving of protection. 
+ 
+ Whilst safeguarding interventions may at times feel intrusive or restrictive to young people, staff remain committed to explaining decisions, maintaining relationships, and repairing any disruption to trust that may occur as a consequence of keeping children safe. 
+ 
+ The home seeks to engage children in understanding and contributing to plans designed to keep them safe. Whilst safeguarding responsibilities remain with adults, children are encouraged to participate in identifying strategies that are realistic, meaningful, and achievable. This approach supports greater engagement, promotes shared ownership of safety planning, and helps children develop a better understanding of risk, responsibility, and personal safety. 
+ 
+ Child Protection 
+ 
+ The home is committed to protecting children from abuse, neglect, exploitation, and significant harm. 
+ All safeguarding concerns are responded to promptly and in accordance with: 
+ 
+ Norfolk Safeguarding Children Partnership procedures. 
+ Children's Homes Regulations 2015. 
+ Working Together to Safeguard Children. 
+ Keeping Children Safe in Education (where applicable). 
+ The home's safeguarding and child protection policies. 
+ 
+ Staff understand their individual responsibility to identify, respond to and report concerns immediately. 
+ Children are supported to understand their rights, access advocacy services, and speak openly about any concerns affecting their safety and wellbeing. 
+ 
+ Contextual Safeguarding 
+ 
+ Animate recognises that risks to children frequently occur beyond the home environment. 
+ Our safeguarding practice is informed by contextual safeguarding principles and acknowledges that harm may occur within: 
+ 
+ Peer groups. 
+ Schools and educational settings. 
+ Community spaces. 
+ Public transport. 
+ Social media platforms. 
+ Online gaming environments. 
+ Local neighbourhoods. 
+ 
+ The staff team work collaboratively with children, families, social workers, education providers, police, and specialist services to understand and reduce risks within these wider contexts. 
+ 
+ Safeguarding assessments therefore consider not only the child but also the environments in which they spend their time. 
+ 
+ Child Sexual Exploitation, Child Criminal Exploitation and Serious Youth Violence 
+ 
+ The Registered Manager has extensive experience supporting children affected by exploitation, county lines activity, criminal exploitation, serious youth violence, and grooming. 
+ 
+ The home recognises that exploited children are victims of abuse regardless of how their behaviour may present. 
+ 
+ Children may: 
+ Appear to make unsafe choices. 
+ Be reluctant to engage with professionals. 
+ Display loyalty towards exploiters. 
+ Minimise risk. 
+ Go missing from care. 
+ Become involved in criminal activity. 
+ 
+ Staff are trained to recognise indicators of exploitation and understand the complex dynamics that influence children's decision-making. 
+ 
+ Safeguarding responses focus upon: 
+ 
+ Building trusted relationships. 
+ Understanding the child's lived experience. 
+ Disrupting exploitation. 
+ Increasing protective factors. 
+ Multi-agency collaboration. 
+ Supporting children to recognise and understand risk. 
+ The home promotes a culture of professional curiosity and recognises that behavioural changes may indicate underlying safeguarding concerns. 
+ 
+ Missing From Care 
+ 
+ The home recognises that children who go missing are at increased risk of harm, exploitation, victimisation, and serious youth violence. Robust procedures are in place to respond promptly and proportionately to any missing-from-care episode. 
+ 
+ Individual risk assessments and safety plans identify known vulnerabilities, triggers, locations of concern, peer associations, and contextual safeguarding risks. 
+ 
+ Animate Social Care works in partnership with Norfolk Police and relevant agencies and uses the Philomena Protocol where appropriate. The Philomena Protocol enables key information regarding a child's vulnerabilities, presentation, locations, and known associates to be readily available, supporting a swift and informed response when a child is reported missing. 
+ 
+ Staff understand that missing episodes are often symptomatic of underlying unmet needs, exploitation, trauma, or emotional distress. Therefore, responses focus not only on locating the child safely but also on understanding the reasons behind the episode and strengthening future safety planning. 
+ The Registered Manager, placing authority, parents (where appropriate), police, and relevant professionals are notified in line with statutory requirements. 
+ 
+ 
+ 
+ 
+ 
+ The staff team work proactively to reduce missing episodes through: 
+ 
+ Relationship building. 
+ Safety planning. 
+ Restorative conversations. 
+ Contextual safeguarding approaches. 
+ Understanding the function of the behaviour. 
+ 
+ Following any missing episode, children are offered the opportunity to participate in a return home interview and staff review existing plans to identify any additional safeguards required. 
+ 
+ Risk Assessment and Safety Planning 
+ 
+ Risk assessments are viewed as dynamic documents which support safe and informed decision-making. 
+ 
+ Risk assessments are developed collaboratively wherever possible and take account of: 
+ 
+ The child's views. 
+ Historical information. 
+ Current presenting concerns. 
+ Strengths and protective factors. 
+ Contextual risks. 
+ Emerging information. 
+ 
+ Children are encouraged to contribute to their own safety planning. 
+ 
+ We recognise that children are more likely to engage with plans they have helped to create and understand. 
+ 
+ Plans are reviewed regularly and updated following significant events, changes in circumstances or emerging concerns. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Online Safety 
+ 
+ Animate recognises that the online world forms a significant part of children's social, emotional, and developmental lives. 
+ 
+ The home is committed to supporting children to access technology safely whilst recognising the risks associated with: 
+ 
+ Online grooming. 
+ Child sexual exploitation. 
+ Criminal exploitation. 
+ Radicalisation. 
+ Sextortion. 
+ Cyberbullying. 
+ Harmful online content. 
+ 
+ The home provides Wi-Fi access with appropriate parental controls and monitoring systems. 
+ 
+ Televisions, gaming devices, and internet-enabled equipment are subject to age-appropriate safety measures. 
+ Staff understand that online activity can present significant safeguarding concerns and are trained to identify indicators of risk. 
+ 
+ The home promotes open conversations about online activity and encourages children to seek support when they encounter situations that make them feel uncomfortable or unsafe. 
+ 
+ Education around online exploitation forms part of the home's wider safeguarding programme. 
+ 
+ Children are supported to develop the knowledge, confidence and critical thinking skills required to navigate the online world safely. 
+ 
+ Home Security and Surveillance 
+ 
+ The home operates Ring Doorbell technology as an additional safeguarding measure. 
+ 
+ Children, families and placing authorities are informed of its purpose and operation. 
+ 
+ 
+ 
+ 
+ The system is used proportionately and only for legitimate safeguarding purposes, including: 
+ Monitoring visitors to the home. 
+ Supporting investigations relating to safeguarding concerns. 
+ Assisting when children are reported missing. 
+ 
+ The home does not operate internal surveillance systems. 
+ 
+ Children's privacy, dignity, and rights are always respected. 
+ 
+ The use, storage and sharing of footage is governed by the home's data protection and surveillance policies and complies with relevant GDPR requirements. 
+ 
+ Emergency and Fire Safety 
+ 
+ The home maintains robust emergency planning arrangements to ensure the safety and welfare of all children, staff, and visitors. 
+ 
+ These arrangements include: 
+ 
+ Fire safety training. 
+ Routine fire drills. 
+ Weekly testing of fire systems. 
+ Fire detection and alarm systems. 
+ Fire doors and firefighting equipment. 
+ Emergency evacuation procedures. 
+ Hazard reporting and maintenance processes. 
+ 
+ Children receive information about emergency procedures upon admission and are supported to understand how to keep themselves and others safe. 
+ 
+ 6. Children's Participation, Wishes and Feelings 
+ Promoting Children's Voice 
+ 
+ Animate Social Care is committed to ensuring that children and young people are listened to, respected and actively involved in decisions affecting their lives. 
+ 
+ Children have a right to express their views, wishes and feelings and to know that those views will be taken seriously. 
+ 
+ The home promotes a culture where children are encouraged to share their opinions openly and safely, regardless of age, ability, communication style, culture, disability, gender identity, faith, or background. 
+ 
+ Children receive information in formats appropriate to their age, understanding, and developmental stage. The home provides separate Children's Guides for younger children and older young people, recognising that children engage differently depending upon age, developmental presentation, and communication preference. 
+ Communication methods and participation opportunities are adapted to ensure all children can understand information and contribute meaningfully to decisions affecting their lives. 
+ 
+ Children are supported to contribute to: 
+ 
+ Care planning. 
+ Risk assessments. 
+ Safety planning. 
+ Placement planning meetings. 
+ Reviews. 
+ Independence planning. 
+ Activity planning. 
+ Menu planning. 
+ House meetings. 
+ Development of the home environment. 
+ 
+ The staff team actively seek children's views and ensure that participation is embedded within daily practice rather than restricted to formal meetings. 
+ 
+ Building Trust and Communication 
+ 
+ Animate Social Care recognises that meaningful participation is dependent upon trusted relationships. 
+ 
+ Children are encouraged to express both positive and negative feelings and are supported to do so in a manner that is safe and respectful. 
+ 
+ Staff create opportunities for informal conversations, key work sessions and reflective discussions that allow children to explore worries, concerns, and aspirations. 
+ 
+ Children are encouraged to challenge decisions respectfully and ask questions about matters affecting them. 
+ 
+ Where decisions are made that differ from a child's wishes, staff will explain the reasons for those decisions and ensure the child understands how their views were considered. 
+ 
+ This approach promotes transparency, fairness, and mutual respect. 
+ 
+ Key Work and Individual Support 
+ 
+ Each child will have a named Key Worker who takes responsibility for coordinating aspects of their day-to-day care and supporting the implementation of their care plan. 
+ 
+ Key work provides dedicated time for children and staff to explore: 
+ 
+ Emotional wellbeing. 
+ Relationships. 
+ Education. 
+ Identity. 
+ Safety. 
+ Health. 
+ Independence skills. 
+ Future aspirations. 
+ 
+ The key worker role supports the development of trusted relationships and provides children with a consistent adult who understands their individual journey. 
+ 
+ Whilst each child will have a designated Key Worker, all members of the staff team share responsibility for supporting children and promoting positive outcomes. 
+ 
+ House Meetings 
+ 
+ Regular house meetings provide children with opportunities to influence the operation and development of the home. 
+ 
+ Children are encouraged to contribute ideas, raise concerns, and celebrate achievements. 
+ 
+ Topics may include: 
+ Activities and holidays. 
+ Menus and meal planning. 
+ House rules and routines. 
+ Decoration and personalisation of shared spaces. 
+ Community participation. 
+ Suggestions for improving the service. 
+ 
+ Feedback provided by children is recorded and considered by the management team. 
+ 
+ Where suggestions cannot be implemented, children are provided with an explanation and alternative solutions explored where appropriate. 
+ 
+ Advocacy 
+ 
+ Children have the right to independent advocacy and support. 
+ 
+ Information regarding advocacy services is provided in formats appropriate to the child's age and understanding. 
+ Staff actively encourage children to access advocacy support where they require assistance expressing their views, raising concerns, or participating in meetings. 
+ 
+ Children are supported to contact advocates independently if they wish to do so. 
+ 
+ Advocates are welcomed into the home and supported to undertake their role free from influence or interference. 
+ Equality, Diversity, and Inclusion 
+ 
+ Animate Social Care values and celebrates diversity. 
+ 
+ Children are supported to develop a positive understanding of their identity and to feel respected, accepted and valued for who they are. 
+ 
+ The home is committed to promoting equality of opportunity and ensuring that children are not disadvantaged because of: 
+ 
+ Race. 
+ Ethnicity. 
+ Religion or belief. 
+ Disability. 
+ Neurodiversity. 
+ Gender identity. 
+ Sexual orientation. 
+ Cultural background. 
+ 
+ Care planning considers each child's individual identity, culture, beliefs, and experiences. 
+ 
+ Children are supported to access community resources, cultural opportunities, and faith-based services where these form an important part of their identity. 
+ 
+ Complaints and Concerns 
+ 
+ Animate Social Care welcomes feedback and recognises the importance of children being able to raise concerns without fear of negative consequences. 
+ 
+ Children are encouraged to discuss worries informally with staff wherever possible. However, they also have access to a formal complaint’s procedure. 
+ 
+ Information about how to make a complaint is provided upon admission and is available in child-friendly formats throughout the home. 
+ 
+ Children may seek support from: 
+ 
+ Their Key Worker. 
+ The Registered Manager. 
+ Their Social Worker. 
+ Independent advocates. 
+ Ofsted. 
+ Other relevant professionals. 
+ 
+ All complaints are taken seriously and investigated promptly, fairly, and transparently. 
+ 
+ Children are informed of the outcome of complaints and any actions arising from investigations. 
+ 
+ Complaints are monitored by the Registered Manager as part of the home's quality assurance and service improvement processes. 
+ 
+ 
+ 
+ 
+ 7. Education, Health, Emotional Wellbeing, and Independence 
+ Promoting Positive Outcomes 
+ 
+ Animate Social Care is committed to supporting children and young people to achieve positive and sustainable outcomes across all areas of their lives. 
+ 
+ We recognise that progress looks different for every child and that achievement should be measured against individual starting points, experiences, and personal goals. 
+ 
+ Many children arriving at the home may have experienced disrupted education, trauma, instability, relationship breakdowns, exploitation, or adverse childhood experiences. These experiences can impact confidence, self-esteem, emotional wellbeing, and aspirations for the future. 
+ 
+ The role of the home is to provide consistent support, encouragement and opportunities that enable children to recognise their strengths, develop resilience, and achieve their potential. 
+ Progress is celebrated in all forms, whether academic, emotional, social, behavioural, or practical. 
+ 
+ Education and Learning 
+ 
+ The home recognises education as a protective factor and an important contributor to future opportunities, independence, and wellbeing. 
+ 
+ Children are supported to access and engage with education, training, and employment opportunities appropriate to their individual needs, abilities, and aspirations. 
+ 
+ Staff work closely with: 
+ 
+ Schools. 
+ Alternative education providers. 
+ Virtual School Heads. 
+ SEN teams. 
+ Tutors. 
+ Further education providers. 
+ Children are encouraged to develop positive attitudes towards learning and are supported to overcome barriers that may have previously impacted educational engagement. 
+ 
+ 
+ 
+ 
+ 
+ The home promotes: 
+ 
+ School attendance. 
+ Educational achievement. 
+ Homework and revision support. 
+ Access to educational resources. 
+ Participation in enrichment opportunities. 
+ Staff celebrate effort and progress and help children recognise their achievements. 
+ 
+ Emotional Health and Wellbeing 
+ 
+ The home places significant importance on emotional wellbeing and recognises the impact that trauma, adversity, and loss can have on children's emotional development. 
+ 
+ Children are supported within a nurturing and emotionally responsive environment where feelings can be explored safely and without judgement. 
+ The staff team understand that emotional distress may be communicated through behaviour and therefore seek to understand the underlying causes rather than responding solely to the presenting behaviour. 
+ 
+ 
+ Support is provided through: 
+ 
+ Daily relationship-based care. 
+ Key work sessions. 
+ Reflective conversations. 
+ Restorative approaches. 
+ Therapeutic consultation where appropriate. 
+ Multi-agency working. 
+ 
+ Children are encouraged to develop emotional literacy and understand the connection between thoughts, feelings, and behaviours. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Physical Health 
+ 
+ The home promotes healthy lifestyles and supports children to develop positive attitudes towards their physical health and wellbeing. 
+ 
+ Children are supported to access: 
+ 
+ General medical services. 
+ Dental care. 
+ Optical services. 
+ Specialist health services. 
+ Emotional wellbeing services. 
+ 
+ Health needs are identified through assessment and incorporated into care planning. 
+ 
+ Staff support children to understand the importance of maintaining their health and encourage them to make informed choices regarding nutrition, exercise, sleep, and self-care. 
+ 
+ Where children require medication, safe administration procedures are followed in accordance with legislation and organisational policy. 
+ Identity, Self-Esteem, and Personal Development 
+ 
+ Animate Social Care recognises the importance of helping children develop a positive sense of identity and belonging. 
+ 
+ Children are encouraged to explore and celebrate: 
+ 
+ Their strengths. 
+ Their talents. 
+ Their interests. 
+ Their culture. 
+ Their beliefs. 
+ Their personal aspirations. 
+ 
+ Staff provide opportunities for children to engage in activities that build confidence, self-worth, and social skills. 
+ 
+ 
+ 
+ Children are supported to develop healthy relationships, positive self-image, and confidence in their ability to influence their own future. 
+ 
+ Independence and Preparation for Adulthood 
+ 
+ Preparing children for adulthood is embedded throughout daily practice within the home. 
+ For younger children, independence is promoted through age-appropriate opportunities to develop confidence, responsibility, problem-solving skills and self-esteem. 
+ 
+ Animate Social Care recognises that independence is not achieved through age alone but through opportunities, experience, guidance, and support. 
+ Children are encouraged to develop practical life skills in line with their age, understanding, and individual needs. 
+ 
+ These may include: 
+ 
+ Cooking and meal preparation. 
+ Budgeting and money management. 
+ Shopping. 
+ Laundry and household tasks. 
+ Personal care. 
+ Time management. 
+ Travel training. 
+ Managing appointments. 
+ Understanding tenancy responsibilities. 
+ Accessing community resources. 
+ 
+ Children are supported to develop decision-making skills, confidence and personal responsibility whilst continuing to receive the guidance and support necessary to remain safe. 
+ 
+ The home recognises that adolescents often seek greater autonomy whilst still requiring significant adult support. Staff therefore balance opportunities for independence with appropriate safeguarding measures. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Supporting Care Leavers and Future Planning 
+ 
+ For older adolescents, preparation for adulthood includes active planning for future accommodation, education, employment, and training opportunities. 
+ 
+ We work closely with: 
+ 
+ Personal Advisers. 
+ Leaving Care Teams. 
+ Education providers. 
+ Employers. 
+ Training organisations. 
+ Housing services. 
+ 
+ Young people are encouraged to develop realistic aspirations and are supported to recognise and build upon their strengths. 
+ 
+ Planning for adulthood is viewed as a gradual process rather than a single transition event. 
+ 
+ The aim is for young people to leave the home with increased confidence, practical skills, resilience, and a greater understanding of how to navigate adult life successfully. 
+ 
+ Celebrating Progress and Achievement 
+ 
+ Animate Social Care recognises the importance of celebrating achievement and recognising progress. 
+ 
+ Children's successes are acknowledged and celebrated regularly. 
+ 
+ Achievements may include: 
+ 
+ Educational success. 
+ Improved attendance. 
+ Positive relationships. 
+ Emotional growth. 
+ Independence milestones. 
+ Community participation. 
+ Personal accomplishments. 
+ 
+ We believe that recognising progress helps children build confidence, develop self-belief, and appreciate the journey they have undertaken. 
+ 
+ 8. Positive Relationships, Family Time, and Community Integration 
+ The Importance of Relationships 
+ 
+ Animate Social Care believes children should know where they stand with the adults caring for them. 
+ 
+ Consistency, honesty, and transparency help children develop trust and understand expectations, boundaries and support available to them. 
+ 
+ Many children entering residential care have experienced disrupted relationships, inconsistent caregiving, loss, rejection, trauma, or fractured family connections. These experiences can significantly impact a child's ability to trust others and develop secure attachments. 
+ 
+ The home is committed to providing children with opportunities to experience safe, nurturing, and consistent relationships with adults who remain emotionally available, dependable and boundaried. 
+ 
+ Staff understand that trust is built over time through honesty, consistency, authenticity, and follow-through. Relationships are not viewed as an intervention but as the foundation upon which all other aspects of care are built. 
+ 
+ Children are supported to develop positive relationships with: 
+ 
+ Staff members. 
+ Family members where appropriate. 
+ Friends and peers. 
+ Professionals involved in their lives. 
+ Community networks. 
+ Significant adults identified by the child. 
+ Family Time and Maintaining Connections 
+ 
+ Animate Social Care recognises the importance of family and significant relationships in a child's life. 
+ 
+ Where it is safe and, in the child’s, best interests, the home actively promotes and supports children to maintain meaningful relationships with family members and significant people. 
+ 
+ Family time arrangements are implemented in accordance with the child's care plan, local authority requirements, and court directions where applicable. 
+ 
+ Support may include: 
+ 
+ Facilitating family visits. 
+ Supporting transport arrangements. 
+ Providing emotional preparation before contact. 
+ Supporting children following family time. 
+ Maintaining communication through telephone and digital methods. 
+ Consulting with social workers and family members. 
+ 
+ The home recognises that family relationships can be complex and emotionally significant. Children are therefore supported to process feelings arising from contact arrangements in a safe and supportive environment. 
+ 
+ Where family relationships are strained, inconsistent or absent, staff support children sensitively and help them understand their experiences in a manner appropriate to their age and understanding. 
+ 
+ Supporting Identity and Belonging 
+ 
+ Animate Social Care recognises that a strong sense of identity contributes significantly to emotional wellbeing and resilience. 
+ 
+ Children are encouraged to explore and develop their understanding of: 
+ 
+ Personal identity. 
+ Family history. 
+ Culture and heritage. 
+ Faith and beliefs. 
+ Sexual orientation. 
+ Gender identity. 
+ Personal values and aspirations. 
+ 
+ Staff celebrate individuality and support children to develop confidence in who they are. 
+ 
+ The home provides an inclusive environment where diversity is respected and differences are valued. 
+ 
+ Children are supported to access cultural, religious and community opportunities that are meaningful to them and reflective of their individual identities. 
+ 
+ Friendships and Peer Relationships 
+ 
+ Developing positive friendships is an important aspect of childhood and adolescence. 
+ 
+ The home encourages children to build and maintain healthy peer relationships whilst recognising that friendships can sometimes present risks. 
+ 
+ Staff support children to: 
+ develop social skills. 
+ Recognise healthy and unhealthy relationships. 
+ Understand peer influence. 
+ Build confidence in social situations. 
+ Navigate conflict appropriately. 
+ 
+ Children are encouraged to maintain positive friendships and participate in social activities that promote connection and belonging. 
+ 
+ Where peer relationships present safeguarding concerns, staff work collaboratively with children and partner agencies to understand and reduce risks whilst preserving opportunities for healthy social development. 
+ 
+ Community Participation 
+ 
+ Animate Social Care believes children should feel connected to and valued within their local community. 
+ 
+ The home actively encourages participation in community life and supports children to access opportunities that reflect their interests, talents, and aspirations. 
+ Children may be supported to engage in: 
+ 
+ Sports and fitness activities. 
+ Youth groups. 
+ Volunteering opportunities. 
+ Creative arts. 
+ Clubs and societies. 
+ Community events. 
+ Faith-based activities. 
+ Outdoor and recreational pursuits. 
+ 
+ Community participation helps children develop confidence, social networks, practical skills, and a sense of belonging. 
+ 
+ The home seeks to ensure that children experience opportunities comparable to those available to their peers. 
+ Trusted Adults and Lifelong Relationships 
+ 
+ Animate Social Care recognises the importance of children having trusted adults in their lives. 
+ 
+ For some children, residential care may be the first opportunity they have experienced consistent and dependable adult relationships. 
+ 
+ The home seeks to provide experiences of care that demonstrate: 
+ 
+ Reliability. 
+ Honesty. 
+ Respect. 
+ Compassion. 
+ Accountability. 
+ 
+ Staff understand that adolescents often test relationships before they trust them. Such behaviour is viewed through a developmental and relational lens rather than as a personal rejection. 
+ Children are supported to understand that healthy relationships can withstand challenge, disagreement, and repair. 
+ 
+ The home's aim is that every child leaves with a greater understanding of healthy relationships, an increased ability to trust appropriately and the confidence to seek support when needed. 
+ 
+ 9. Admissions, Matching and Care Planning 
+ Admissions Philosophy 
+ 
+ Animate Social Care is committed to ensuring that admissions are planned, thoughtful and centred upon the needs, safety, and welfare of children. 
+ 
+ The home recognises that the quality of matching decisions has a significant impact upon placement stability, children's experiences, and outcomes. 
+ 
+ Animate Social Care has expertise in supporting adolescents; however, care is tailored to meet the developmental needs of each child and support is adapted according to age, understanding and presentation. 
+ 
+ Admissions are therefore considered carefully to ensure that the home can meet a child's identified needs whilst maintaining a safe, nurturing, and positive environment for all children living in the home. 
+ 
+ The home seeks to balance opportunities for children requiring care with the responsibility to protect existing relationships, routines, and placement stability. 
+ 
+ Children the Home is Registered to Support 
+ 
+ Mardle Children's Home provides care and accommodation for up to two children and young people aged 8–17 years. 
+ 
+ The home is designed to support children presenting with: 
+ 
+ Social, Emotional and Mental Health needs (SEMH). 
+ Trauma-related behaviours. 
+ Attachment difficulties. 
+ Emotional dysregulation. 
+ Experiences of neglect or abuse. 
+ Contextual safeguarding concerns. 
+ Child Sexual Exploitation (CSE). 
+ Child Criminal Exploitation (CCE). 
+ Missing from care behaviours. 
+ Difficulties maintaining family or social relationships. 
+ Challenges associated with adolescence and identity development. 
+ 
+ Each referral is considered individually, and decisions are based upon the home's ability to meet the child's assessed needs safely and effectively. 
+ 
+ Referral and Assessment Process 
+ 
+ Prior to admission, the Registered Manager will gather and review all available information relating to the child. 
+ 
+ 
+ 
+ This may include: 
+ 
+ Referral documentation. 
+ Social care assessments. 
+ Care plans. 
+ Education information. 
+ Health information. 
+ Risk assessments. 
+ Previous placement information. 
+ Exploitation and safeguarding assessments. 
+ Psychological or therapeutic reports where available. 
+ 
+ The purpose of the assessment process is to establish: 
+ 
+ The child's strengths and needs. 
+ Risks and vulnerabilities. 
+ Protective factors. 
+ Compatibility with existing children. 
+ Resources required to support the placement. 
+ The home's ability to meet identified needs. 
+ 
+ Where information is limited, the Registered Manager will seek clarification from the placing authority before a decision is made. 
+ 
+ Matching Considerations 
+ 
+ Matching decisions are central to the home's commitment to providing safe and stable care. 
+ A comprehensive impact and compatibility assessment is undertaken before any admission. 
+ 
+ 
+ The assessment considers: 
+ 
+ The needs of the referred child. 
+ The needs of children already living in the home. 
+ Known risks and vulnerabilities. 
+ Developmental stages. 
+ Peer dynamics. 
+ Exploitation concerns. 
+ Missing from care risks. 
+ Criminal associations. 
+ Emotional wellbeing. 
+ Bedroom arrangements. 
+ Gender considerations. 
+ Cultural and identity needs. 
+ The welfare of all children remains paramount throughout the matching process. 
+ 
+ The home will only accept placements where it is satisfied that the admission is unlikely to have a negative impact on the safety, welfare or progress of children already living within the home. 
+ 
+ Emergency Admissions 
+ 
+ The home recognises that there may be occasions where emergency placements are required. 
+ 
+ Emergency admissions will be considered on an individual basis and only where sufficient information is available to enable an informed assessment of risk and compatibility. 
+ 
+ The same principles of safeguarding, matching and placement stability apply regardless of the urgency of the referral. 
+ 
+ The Registered Manager retains responsibility for determining whether the home can safely and effectively meet the child's needs. 
+ 
+ Planned Admissions and Transitions 
+ 
+ Where possible, admissions are planned to support children in experiencing a positive and welcoming transition into the home. 
+ Planned admissions may include: 
+ 
+ Pre-placement visits. 
+ Introductions to staff. 
+ Visits to the home. 
+ Discussions regarding routines and expectations. 
+ Opportunities to ask questions. 
+ Meetings with existing children where appropriate. 
+ 
+ Children are provided with information about the home in a format suitable to their age and understanding. 
+ 
+ Staff recognise that moving into residential care can be a significant and emotional experience. Attention is therefore given to helping children feel welcomed, respected, and safe. 
+ 
+ Care Planning 
+ 
+ Each child has an individualised care plan which reflects their needs, strengths, wishes, and aspirations. 
+ 
+ Care planning is a collaborative process involving: 
+ 
+ The child. 
+ Family members where appropriate. 
+ Social workers. 
+ Education providers. 
+ Health professionals. 
+ Other relevant agencies. 
+ 
+ Plans are designed to support positive outcomes and provide clear guidance regarding how needs will be met. 
+ 
+ Areas addressed within care planning include: 
+ 
+ Safeguarding. 
+ Emotional wellbeing. 
+ Health. 
+ Education. 
+ Relationships. 
+ Identity. 
+ Independence. 
+ Future planning. 
+ 
+ Children are encouraged to contribute actively to their plans and to understand the purpose of the support being provided. 
+ 
+ 
+ 
+ 
+ Risk Assessment and Review 
+ 
+ The home recognises that risk is dynamic and can change quickly, particularly during adolescence. 
+ 
+ Risk assessments are therefore viewed as living documents and are regularly reviewed. 
+ 
+ Assessments seek to balance: 
+ 
+ Safety. 
+ Development. 
+ Independence. 
+ Opportunity. 
+ Positive risk-taking. 
+ 
+ The home acknowledges that growth and development require opportunities for children to take age-appropriate risks whilst receiving support and guidance from trusted adults. 
+ 
+ Risk management strategies are therefore proportionate, child-centred and informed by individual circumstances. 
+ 
+ Placement Stability and Review 
+ 
+ The home is committed to promoting placement stability and reducing unnecessary disruption. 
+ 
+ Regular review processes ensure that care remains responsive to changing needs and circumstances. 
+ 
+ Where concerns arise regarding the suitability of a placement, the home works collaboratively with all relevant professionals to identify solutions and maintain stability wherever possible. 
+ 
+ The home recognises that adolescents may test relationships and placements during periods of difficulty. Staff are therefore encouraged to remain curious, reflective, and relationship-focused when responding to challenges. 
+ 
+ The aim is always to understand what lies beneath the behaviour and to support children through difficulties wherever it is safe and appropriate to do so. 
+ 
+ 
+ 
+ 10. Staffing, Recruitment, Training and Professional Development 
+ Workforce Philosophy 
+ 
+ Animate Social Care recognises that children experience the greatest positive outcomes when they are cared for by stable, skilled, and reflective adults who are committed to building meaningful relationships. 
+ 
+ The home therefore places significant importance on recruiting, developing, and retaining staff who share the organisation's values and commitment to relationship-based, trauma-informed practice. 
+ 
+ Children require adults who can balance warmth with professional boundaries, empathy with accountability and nurture with safeguarding responsibilities. 
+ 
+ The staff team are expected to model the values and behaviours that underpin the home's ethos and provide consistent care that promotes safety, trust, and positive development. 
+ Recruitment and Selection 
+ 
+ The home is committed to safer recruitment practices and ensuring that all individuals employed are suitable to work with children and young people. 
+ 
+ Recruitment processes are undertaken in accordance with: 
+ 
+ The Children's Homes (England) Regulations 2015. 
+ The Care Standards Act 2000. 
+ Safer Recruitment guidance. 
+ Relevant employment legislation. 
+ 
+ Pre-employment checks include: 
+ 
+ Enhanced Disclosure and Barring Service (DBS) checks. 
+ Identity verification. 
+ Employment history checks. 
+ Reference verification. 
+ Qualification checks. 
+ Right to work checks. 
+ Health declarations where appropriate. 
+ 
+ 
+ 
+ 
+ The home seeks to recruit individuals who demonstrate: 
+ 
+ Compassion. 
+ Integrity. 
+ Emotional resilience. 
+ Professional curiosity. 
+ Reflective capacity. 
+ Commitment to safeguarding. 
+ Understanding of children's development and wellbeing. 
+ Induction 
+ 
+ All new employees undertake a structured induction programme designed to ensure they understand: 
+ 
+ The home's Statement of Purpose. 
+ Children's Homes Regulations and Quality Standards. 
+ Safeguarding responsibilities. 
+ Health and safety procedures. 
+ Behaviour support approaches. 
+ PACE and trauma-informed practice. 
+ Contextual safeguarding principles. 
+ Organisational policies and procedures. 
+ 
+ New staff receive support, guidance, and supervision throughout their induction period to ensure they develop confidence and competence within their role. 
+ 
+ Where required, staff will complete the Level 3 Diploma for Residential Childcare within regulatory timescales. 
+ Training and Development 
+ 
+ Animate Social Care is committed to developing a knowledgeable and competent workforce. 
+ 
+ Training is viewed as an ongoing process and is used to ensure staff remain informed of current legislation, research, safeguarding developments, and best practice. 
+ 
+ 
+ 
+ 
+ Mandatory training includes: 
+ 
+ Safeguarding Children. 
+ Child Sexual Exploitation. 
+ Child Criminal Exploitation. 
+ Contextual Safeguarding. 
+ Missing from Care. 
+ First Aid. 
+ Fire Safety. 
+ Medication Administration. 
+ Health and Safety. 
+ Equality, Diversity, and Inclusion. 
+ Online Safety. 
+ Physical Intervention and De-escalation. 
+ 
+ Additional training opportunities are identified through: 
+ 
+ Supervision. 
+ Team meetings. 
+ Learning reviews. 
+ Regulatory updates. 
+ Service development needs. 
+ 
+ The home actively promotes a culture of continuous professional development and reflective learning. 
+ Understanding Adolescents and Trauma 
+ 
+ The home recognises that effective care requires more than procedural knowledge. 
+ 
+ Staff are encouraged to develop a strong understanding of: 
+ 
+ Adolescent development. 
+ Trauma. 
+ Attachment. 
+ Neurodevelopment. 
+ Exploitation. 
+ Identity formation. 
+ Emotional regulation. 
+ Understanding the developing teenage brain is considered central to the home's practice model and informs how staff interpret and respond to behaviour. 
+ Staff are encouraged to remain curious about the reasons behind behaviour and to consider children's experiences, developmental stage and individual circumstances when planning interventions. 
+ This approach supports thoughtful, proportionate, and relationship-focused practice. 
+ 
+ Supervision and Reflective Practice 
+ 
+ The home is committed to providing regular, meaningful supervision to all staff. 
+ 
+ Supervision provides opportunities to: 
+ 
+ Reflect upon practice. 
+ Discuss children's progress. 
+ Explore safeguarding concerns. 
+ Consider emotional impact. 
+ Review performance and development needs. 
+ Promote accountability and professional growth. 
+ 
+ Supervision supports staff to maintain high standards of care whilst recognising the emotional demands associated with residential childcare. 
+ 
+ The home encourages reflective practice and provides opportunities for staff to think critically about their work, relationships, and decision-making. 
+ 
+ Reflective discussions support learning, resilience, and improved outcomes for children. 
+ 
+ Team Meetings 
+ 
+ Regular team meetings are held to ensure effective communication, shared understanding, and consistency of practice. 
+ 
+ Meetings provide opportunities to: 
+ 
+ Review children's progress. 
+ Discuss safeguarding concerns. 
+ Share information. 
+ Reflect upon incidents. 
+ Review policies and procedures. 
+ Promote learning and development. 
+ 
+ The home recognises that consistency between staff is essential in helping children experience safety, predictability, and trust. 
+ 
+ Use of Agency Staff 
+ 
+ Animate Social Care recognises the importance of stability and continuity for children. 
+ 
+ The home therefore seeks to minimise the use of agency staff wherever possible. 
+ 
+ Where agency staff are required, steps are taken to ensure that individuals: 
+ 
+ Are appropriately vetted. 
+ Possess relevant experience and skills. 
+ Receive information necessary to undertake their role safely. 
+ Understand the home's ethos and safeguarding expectations. 
+ 
+ Agency staff are expected to adhere to the same standards, policies, and professional expectations as permanent employees. 
+ 
+ Staff Wellbeing 
+ 
+ Animate Social Care recognises that caring for children who have experienced trauma, adversity and exploitation can be emotionally demanding. 
+ 
+ The organisation is committed to supporting staff wellbeing and promoting a positive working environment. 
+ 
+ Support is provided through: 
+ 
+ Supervision. 
+ Reflective discussions. 
+ Team support. 
+ Training and development. 
+ Access to wellbeing resources where appropriate. 
+ 
+ The home recognises that a supported workforce is better equipped to provide high-quality care and maintain positive relationships with children. 
+ Professional Accountability 
+ 
+ All staff are expected to maintain high standards of professional conduct and to act in accordance with: 
+ 
+ Children's Homes Regulations. 
+ Quality Standards. 
+ Organisational policies. 
+ Professional codes of conduct where applicable. 
+ 
+ Staff are accountable for their practice and are expected to promote the safety, welfare, and rights of children always. 
+ 
+ The home promotes a culture where concerns can be raised openly and where learning, accountability and continuous improvement are encouraged. 
+ 
+ 11. Leadership, Management and Quality Assurance 
+ Leadership and Management Philosophy 
+ 
+ Animate Social Care believes that strong leadership creates the conditions in which children, staff and the service can thrive. 
+ 
+ Leadership within the home is underpinned by a commitment to: 
+ 
+ Child-centred practice. 
+ Positive relationships. 
+ Safeguarding excellence. 
+ Reflective learning. 
+ Accountability. 
+ Continuous improvement. 
+ 
+ The Registered Manager and leadership team are responsible for ensuring that children receive safe, effective, and nurturing care that promotes positive outcomes and reflects the ethos and values of the organisation. 
+ Leaders seek to create a culture where children feel valued, staff feel supported and learning is viewed as an ongoing process. 
+ 
+ 
+ The Role of the Registered Manager 
+ 
+ The Registered Manager is responsible for the day-to-day operation of the home and ensuring compliance with all relevant legislation, regulations, and standards. 
+ 
+ Responsibilities include: 
+ 
+ Safeguarding and child protection oversight. 
+ Quality of care monitoring. 
+ Staff supervision and development. 
+ Placement matching and admissions. 
+ Care planning oversight. 
+ Partnership working. 
+ Complaints management. 
+ Regulatory compliance. 
+ Service development. 
+ 
+ The Registered Manager promotes a culture of openness, accountability and professional curiosity and ensures that decisions are informed by the needs, welfare, and views of children. 
+ 
+ Creating a Learning Culture 
+ 
+ Animate Social Care recognises that effective residential childcare requires continuous reflection and learning. 
+ 
+ The home promotes a culture where staff are encouraged to: 
+ 
+ Reflect on practice. 
+ Share learning. 
+ Challenge respectfully. 
+ Learn from incidents. 
+ Consider alternative perspectives. 
+ Remain professionally curious. 
+ 
+ Children's experiences, incidents, safeguarding concerns, and achievements are regularly reviewed to identify learning opportunities and inform future practice. 
+ 
+ The aim is not simply to respond to events but to understand them and continually improve the quality of care provided. 
+ Quality Assurance and Monitoring 
+ 
+ The home has robust systems in place to monitor the quality of care and identify opportunities for improvement. 
+ 
+ Quality assurance processes include: 
+ 
+ Daily monitoring by the Registered Manager. 
+ Monthly audits. 
+ File audits. 
+ Medication audits. 
+ Safeguarding audits. 
+ Health and safety monitoring. 
+ Children's feedback. 
+ Staff feedback. 
+ Complaints analysis. 
+ Incident review. 
+ Regulation 44 visits. 
+ Regulation 45 reviews. 
+ 
+ Monitoring activities are used to evaluate the effectiveness of practice, identify trends, and ensure that children receive high-quality care. 
+ 
+ Where improvements are identified, action plans are developed and progress is monitored. 
+ Children's Views and Service Development 
+ 
+ The views of children play a significant role in the evaluation and development of the service. 
+ 
+ Children are encouraged to share feedback regarding: 
+ 
+ The quality of care they receive. 
+ Relationships with staff. 
+ Activities and opportunities. 
+ The home environment. 
+ Safety and wellbeing. 
+ Areas for improvement. 
+ 
+ 
+ Feedback is gathered through: 
+ 
+ House meetings. 
+ Key work sessions. 
+ Informal discussions. 
+ Complaints and compliments. 
+ Consultation exercises. 
+ Children are informed of actions taken in response to their feedback wherever possible. 
+ 
+ The home recognises that meaningful participation contributes to improved services and better outcomes. 
+ 
+ Regulation 44 Independent Visits 
+ 
+ Independent visits are undertaken in accordance with Regulation 44 of the Children's Homes (England) Regulations 2015. 
+ 
+ These visits provide independent scrutiny of: 
+ 
+ Safeguarding practice. 
+ Children's welfare. 
+ Leadership and management. 
+ Staff practice. 
+ The physical environment. 
+ Complaints and concerns. 
+ Children's views. 
+ The Registered Manager reviews recommendations arising from Regulation 44 reports and implements actions where improvements are identified. 
+ 
+ Learning from independent scrutiny contributes to ongoing service development. 
+ 
+ Regulation 45 Quality of Care Reviews 
+ 
+ The Registered Manager completes Regulation 45 Quality of Care Reviews at least every six months. 
+ 
+ The review considers: 
+ 
+ Children's experiences. 
+ Outcomes and progress. 
+ Safeguarding. 
+ Complaints. 
+ Feedback from children and professionals. 
+ Staffing. 
+ Quality assurance findings. 
+ The purpose of the review is to evaluate the effectiveness of the service and identify priorities for improvement. 
+ 
+ Action plans arising from reviews are monitored and reviewed to ensure progress is achieved. 
+ 
+ Multi-Agency Partnership Working 
+ 
+ Animate Social Care recognises that positive outcomes are achieved through effective collaboration. 
+ 
+ The home works in partnership with: 
+ 
+ Local Authorities. 
+ Social Workers. 
+ Education providers. 
+ Health services. 
+ CAMHS. 
+ Police. 
+ Youth Justice Services. 
+ Advocacy providers. 
+ Family members where appropriate. 
+ Other specialist agencies. 
+ 
+ The home promotes open communication and information sharing to ensure that children's needs are understood and responded to effectively. 
+ 
+ Partnership working is viewed as a key safeguarding responsibility and an essential component of achieving positive outcomes. 
+ 
+ 
+ Managing Complaints, Concerns and Allegations 
+ 
+ The home is committed to responding appropriately to complaints, concerns, and allegations. 
+ 
+ Systems are in place to ensure that: 
+ Complaints are investigated fairly. 
+ Children's concerns are taken seriously. 
+ Learning is identified and implemented. 
+ Safeguarding procedures are followed. 
+ Appropriate agencies are notified where required. 
+ 
+ The Registered Manager monitors complaints and allegations to identify patterns, themes, and opportunities for improvement. 
+ 
+ A culture of openness is promoted where concerns can be raised without fear of reprisal. 
+ 
+ Continuous Improvement 
+ 
+ Animate Social Care is committed to continuous improvement and delivering care that reflects current legislation, research, guidance, and best practice. 
+ 
+ The home regularly reviews: 
+ 
+ Policies and procedures. 
+ Children's outcomes. 
+ Training needs. 
+ Feedback from stakeholders. 
+ Research and practice developments. 
+ Regulatory changes. 
+ 
+ The organisation seeks not only to maintain compliance but to continually enhance the quality of care and support provided to children. 
+ 
+ 12. Home Environment and Accommodation 
+ Creating a Safe and Nurturing Home 
+ 
+ Animate Social Care believes that children thrive in environments where they feel safe, valued, respected and able to belong. 
+ 
+ The home has been designed to provide a warm, welcoming, and nurturing environment that promotes emotional wellbeing, stability, and positive development. 
+ 
+ Every effort is made to ensure that children experience the home as their home rather than a service. 
+ 
+ Children are encouraged to personalise their bedrooms, contribute ideas regarding communal spaces and participate in decisions that influence the living environment. 
+ 
+ The home aims to create an atmosphere that balances safety, structure and predictability with warmth, comfort, and individuality. 
+ Location 
+ 
+ Mardle Children's Home is situated within a residential community and provides access to a range of local services, amenities, and opportunities. 
+ 
+ The location has been carefully considered to support children's access to: 
+ 
+ Education. 
+ Healthcare services. 
+ Leisure facilities. 
+ Community activities. 
+ Public transport links. 
+ Employment and training opportunities where appropriate. 
+ 
+ The home seeks to support children in becoming active members of their local community whilst maintaining appropriate safeguarding arrangements. 
+ 
+ Bedrooms and Personal Space 
+ 
+ Each child has their own bedroom which provides privacy, security, and personal space. 
+ 
+ Children are encouraged to personalise their rooms with items that reflect their interests, identity, and preferences, subject to health and safety considerations. 
+ 
+ Staff recognise that personal space is important and children are supported to feel a sense of ownership and belonging within their environment. 
+ 
+ Bedrooms are furnished to a suitable standard and maintained to ensure they remain safe, comfortable, and homely. 
+ 
+ Children's privacy and dignity are always respected. 
+ 
+ Communal Areas 
+ 
+ The home provides shared living spaces designed to encourage positive relationships, social interaction, and a sense of community. 
+ 
+ Communal areas provide opportunities for: 
+ 
+ Shared meals. 
+ Activities. 
+ Informal conversations. 
+ House meetings. 
+ Celebration of achievements. 
+ Relaxation and recreation. 
+ 
+ The home promotes a family-style environment where children and staff can spend time together in meaningful and positive ways. 
+ 
+ Outdoor Space 
+ 
+ Where outdoor space is available, children are encouraged to access and enjoy it safely. 
+ 
+ Outdoor areas provide opportunities for: 
+ 
+ Recreation. 
+ Exercise. 
+ Relaxation. 
+ Social interaction. 
+ Personal development activities. 
+ 
+ The home recognises the benefits of outdoor activity for physical and emotional wellbeing. 
+ 
+ Accessibility and Inclusion 
+ 
+ Animate Social Care is committed to ensuring that children feel welcomed, respected, and included. 
+ 
+ Reasonable adjustments will be considered to meet the needs of children with disabilities, health conditions, or additional support requirements. 
+ 
+ The home seeks to identify and remove barriers to participation wherever possible. 
+ 
+ Children are supported to access services, activities and opportunities in ways that reflect their individual needs and circumstances. 
+ 
+ Safety and Security 
+ 
+ The home maintains appropriate security arrangements to protect children, staff and visitors whilst preserving a homely environment. 
+ 
+ Security arrangements may include: 
+ 
+ Secure entry systems. 
+ Ring Doorbell technology. 
+ Risk assessments. 
+ Visitor procedures. 
+ Safeguarding protocols. 
+ 
+ Security measures are proportionate and designed to support children's welfare without creating an institutional environment. 
+ 
+ The home does not utilise internal surveillance systems and children's privacy and dignity are always respected. 
+ 
+ Maintaining a Sense of Home 
+ 
+ Animate Social Care recognises that many children entering residential care may have experienced instability, uncertainty, or a lack of belonging. 
+ 
+ The home therefore places significant importance on helping children develop a sense of permanence, connection, and ownership within their environment. 
+ 
+ Children are encouraged to contribute to decisions about the home and are supported to create living spaces that reflect their identity, interests, and achievements. 
+ 
+ The aim is for children to experience the home as somewhere they are valued, respected and able to be themselves. 
+ 
+ 13. Registered Provider Information 
+ Registered Provider 
+ 
+ Provider Name: Animate Social Care Ltd 
+ 
+ Registered Office Address: 
+ Suite B1, 
+ Saphire House, 
+ Rowntree way, 
+ Norwich, 
+ NR7 8SQ 
+ 
+ Telephone: 
+ 07984120758 
+ 
+ Email: 
+ support@animatesocialcare.co.uk 
+ 
+ Website: 
+ www.animatesocialcare.co.uk 
+ 
+ Company Registration Number: 
+ [Insert Number] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Responsible Individual 
+ 
+ 
+ Name: 
+ Tapiwa Kunodro 
+ 
+ Qualifications and Experience: 
+ 
+ · Diploma in Theology- Oasis of Grace Theological College 
+ 
+ · BA (Hons) Informal and Community Education-Canterbury Christchurch University 
+ 
+ · Master’s in business administration -University of East Anglia 
+ 
+ · 5 Day Signs of Safety Lead – Signs of Safety 
+ 
+ · Supervision of Newly Qualified Social Workers -NSPCC 
+ 
+ · Responsible Individual Training – Children’s Home Quality 
+ 
+ · Reg 44 Visitor Training -Reconstruct 
+ 
+ Tapiwa Kunodro is a compassionate and results-driven professional with a substantial background in child protection and Supported Accommodation management. Committed to creating safe, nurturing, and developmentally supportive environments for vulnerable children and young people, Munir excels in leading multidisciplinary teams, implementing effective care strategies, and fostering a culture of accountability, safety, and inclusion. His dedication to regulatory compliance, safeguarding best practices, and ethical standards makes him highly suited for the role of Responsible Individual within a children’s home setting. 
+ 
+ Professional Summary 
+ With extensive experience in youth work, early help support, fostering services, setting Supported Accommodation, Regulation 44 Visitor, and care management as a CQC Registered Manager and Nominated Individual, Tapiwa is well-versed in maintaining the highest standards of care and compliance. As an experienced Responsible Individual, he has consistently demonstrated his ability to support, supervise, and uphold Ofsted standards in children’s services. Tapiwa’s approach is rooted in ensuring that all practices align with safeguarding requirements and statutory guidelines and fostering a robust culture of safety and support for children and staff. 
+ 
+ Core Skills: 
+ Child Safeguarding & Compliance – Profound knowledge of regulatory standards and safeguarding protocols, ensuring comprehensive child protection. 
+ 
+ Leadership, Coaching & Team Development – Skilled in mentoring and empowering diverse teams to achieve high standards of care and maintain compliance. 
+ Personal Attributes: 
+ 
+ Taps is recognised for his proactive, innovative approach, constantly striving to enhance care practices and operational effectiveness. His empathy, integrity, and dedication to delivering positive outcomes for children make him a trusted and capable Responsible Individual. With a long professional background of working with children and young people and a commitment to inclusivity, Taps is well-equipped to support children and families from diverse backgrounds, ensuring that all children in his care receive the highest standards of support and protection. 
+ 
+ The Responsible Individual provides oversight of the service and ensures that the home operates in accordance with the Children's Homes (England) Regulations 2015, Quality Standards, and organisational values. 
+ The Responsible Individual works closely with the Registered Manager to monitor quality, promote continuous improvement and ensure positive outcomes for children. 
+ 
+ Registered Manager 
+ 0 197485 
+ Name: 
+ Toni Berry 
+ 
+ Qualifications: 
+ Diploma in Social work 
+ Level 5 Diploma in Leadership and Management for Residential Childcare 
+ Nursery Nurse Examination Board 
+ 
+ Experience: 
+ Toni is a qualified senior social worker who has worked with children and young people for twenty-six years. Her experience has been within Norfolk County Council, beginning her social work journey as an education social worker within local schools. Toni has worked predominantly with adolescents and care leavers. She is passionate about providing the right support for children and young people to prepare them for their future. Toni is a very strong advocate for children and demands nothing less than for the absolute best for the children in her care. Toni has worked within multi – agency teams and has a great deal of experience collaborating with partner agencies. 
+ Toni has extensive experience working with young people who have suffered multiple traumas, preparing them for Independence. Taking a trauma-informed approach and providing a consistent, dependent source of support resulted in positive outcomes for those in her care. Her knowledge and experience of the teenage brain and impact of adversity on development is embedded in her practice and is at the core of how her team work with children and young people. 
+ Toni has previous experience in the role of Registered Manager in a Local Authority residential setting. Toni completed the Level 5 accreditation in Leadership and Management for Residential Childcare and Supervision training. Toni’s strengths in child centred practice and overall protection of children were noted by Ofsted and reflected in their positive rating. 
+ Toni leads by modelling what she expects from her staff team and all those involved in the lives of children. Her expectations are high and she adopts an “open door policy” to the children placed in her care. Toni works with children and young people, encouraging co-production of plans and decision-making at every juncture. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Toni’s skills 
+ Child-centred practice and protection of children and young people. 
+ Strong advocate for children’s rights 
+ Extensive knowledge and experience of child criminal exploitation and serious youth violence, gang culture, and contextual safeguarding 
+ Multi-agency collaboration 
+ Care and pathway planning for children and young people. 
+ Acute understanding of the teenage brain 
+ 
+ Addition training includes: 
+ Autism Awareness 
+ Diversity and Inclusion 
+ Harmful Sexual Behaviour 
+ First Aid 
+ Care of Medications 
+ Fire training 
+ CMPI (restraint) 
+ Safeguarding and child protection 
+ Teenage brain 
+ Adolescent Neglect 
+ County Lines, Child Criminal Exploitation, serious youth violence, and gangs. 
+ 
+ The Registered Manager is responsible for the day-to-day operation of the home and ensuring that children receive high-quality care which promotes their safety, wellbeing, and development. 
+ 
+ The Registered Manager leads the staff team, oversees safeguarding arrangements, and ensures that practice remains consistent with the ethos and values outlined within this Statement of Purpose. 
+ 
+ Ofsted 
+ 
+ Ofsted is responsible for the registration and inspection of children's homes in England. 
+ 
+ Children, families, and professionals may contact Ofsted regarding concerns about the service. 
+ 
+ 
+ Ofsted 
+ Piccadilly Gate 
+ Store Street 
+ Manchester 
+ M1 2WD 
+ 
+ Telephone: 0300 123 1231 
+ 
+ Website: www.gov.uk/ofsted 
+ 
+ Review of the Statement of Purpose 
+ 
+ This Statement of Purpose is reviewed regularly and whenever significant changes occur within the service. 
+ 
+ Reviews consider: 
+ 
+ Changes in legislation or regulation. 
+ Developments in research and best practice. 
+ Feedback from children. 
+ Feedback from families and professionals. 
+ Learning from audits and quality assurance activities. 
+ Service development priorities. 
+ 
+ Updated versions are shared with Ofsted, placing authorities, children, families, and relevant stakeholders as required. 
+ 
+ 14. Conclusion 
+ 
+ Animate Social Care is committed to providing high-quality, relationship-based care that promotes safety, stability, belonging and positive outcomes for children and young people. 
+ 
+ The home recognises that children entering residential care may have experienced trauma, loss, adversity, disrupted relationships, and significant safeguarding challenges. Our role is to provide a safe, nurturing and developmentally responsive environment where children are supported to understand themselves, build resilience and develop confidence in their future. 
+ 
+ Practice is underpinned by strong relationships, clear boundaries, co-production, contextual safeguarding, and a commitment to understanding behaviour within the context of children's experiences and developmental needs. 
+ Children are encouraged to have a meaningful voice in decisions affecting their lives and are supported to participate in ways that are appropriate to their age, understanding, and developmental stage. 
+ 
+ The home believes that effective care is built upon honesty, consistency, and trust. Children should know where they stand with the adults caring for them and should experience relationships that remain dependable during both positive and challenging times. 
+ 
+ Animate Social Care is committed to working alongside children, families, and partner agencies to help children achieve safety, stability, independence, and a sense of belonging. 
+ 
+ The aim is that every child leaves the home with increased confidence, stronger relationships, improved life opportunities, and the knowledge that they have been cared for by adults who genuinely believed in their potential. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
