@@ -1,7 +1,13 @@
-Options -Indexes
+Options -Indexes -MultiViews
 DirectoryIndex index.html
 
 RewriteEngine On
+
+# Treat clean extensionless page files as HTML if the host serves them directly.
+<FilesMatch "^(about|leadership|our-home|services|referrals|careers|contact)$">
+  ForceType text/html
+  AddDefaultCharset UTF-8
+</FilesMatch>
 
 # Redirect direct .html requests to clean extensionless URLs.
 RewriteCond %{THE_REQUEST} \s/+(.+?)\.html[\s?] [NC]

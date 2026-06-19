@@ -39,7 +39,7 @@
         <a class="brand" href="index.html"><img src="ANIMATE%20HORIZONTAL.svg" alt="Animate Social Care logo" width="184" height="63" /></a>
         <button class="nav-toggle" type="button" data-nav-toggle aria-expanded="false" aria-controls="nav-links">Menu</button>
         <div class="nav-links" id="nav-links" data-nav-links>
-          <a href="about" aria-current="page">About</a><a href="our-home">Our Home</a><a href="services">Services</a><a href="referrals">Referrals</a><a href="careers">Careers</a><a href="contact">Contact</a><a class="button" href="contact#contact-form">Make a Referral</a>
+          <a href="about.html" aria-current="page">About</a><a href="our-home.html">Our Home</a><a href="services.html">Services</a><a href="referrals.html">Referrals</a><a href="careers.html">Careers</a><a href="contact.html">Contact</a><a class="button" href="contact.html#contact-form">Make a Referral</a>
         </div>
       </nav>
     </header>
@@ -52,8 +52,8 @@
             <h1 class="balanced-heading">Who we are and<br />why we do this</h1>
             <p>Animate Care was founded on a simple belief: every young person deserves consistent, compassionate support from people who genuinely care.</p>
             <div class="hero-actions">
-              <a class="button" href="contact#contact-form">Make a Referral</a>
-              <a class="button secondary" href="contact">Speak to Our Team</a>
+              <a class="button" href="contact.html#contact-form">Make a Referral</a>
+              <a class="button secondary" href="contact.html">Speak to Our Team</a>
             </div>
           </div>
         </div>
@@ -127,7 +127,7 @@
               <h3>Tapiwa Kunodro</h3>
               <span class="staff-preview-role">Responsible Individual</span>
               <p>Tapiwa has a substantial background in child protection, supported accommodation management, youth work, early help, fostering services, Regulation 44 visiting and care management.</p>
-              <a href="leadership#responsible-individual">Read Tapiwa's profile</a>
+              <a href="leadership.html#responsible-individual">Read Tapiwa's profile</a>
             </div>
           </article>
           <article class="role staff-preview-card">
@@ -138,7 +138,7 @@
               <h3>Toni Berry</h3>
               <span class="staff-preview-role">Registered Manager</span>
               <p>Toni is a qualified senior social worker with 26 years' experience working with children and young people, including adolescents, care leavers and local authority residential settings.</p>
-              <a href="leadership#registered-manager">Read Toni's profile</a>
+              <a href="leadership.html#registered-manager">Read Toni's profile</a>
             </div>
           </article>
         </div>
@@ -172,11 +172,11 @@
       <section class="band">
         <div class="section journey-section">
           <div class="journey-head"><div><p class="section-label">Go deeper</p><h2>Meet the people and practice behind the care</h2></div><p>From values to leadership to day-to-day support, these pages show how Animate Care turns its ethos into real residential childcare.</p></div>
-          <div class="journey-grid"><a class="journey-card" href="leadership"><div><small>Leadership</small><strong>Meet the team accountable for quality</strong></div><span>View leadership</span></a><a class="journey-card" href="services"><div><small>Care model</small><strong>See how therapeutic support works</strong></div><span>Our services</span></a><a class="journey-card" href="our-home"><div><small>Environment</small><strong>Explore the home children live in</strong></div><span>Our home</span></a></div>
+          <div class="journey-grid"><a class="journey-card" href="leadership.html"><div><small>Leadership</small><strong>Meet the team accountable for quality</strong></div><span>View leadership</span></a><a class="journey-card" href="services.html"><div><small>Care model</small><strong>See how therapeutic support works</strong></div><span>Our services</span></a><a class="journey-card" href="our-home.html"><div><small>Environment</small><strong>Explore the home children live in</strong></div><span>Our home</span></a></div>
         </div>
       </section>    </main>
 
-    <footer class="site-footer"><div class="footer-inner"><div class="footer-grid"><div><img class="footer-logo" src="animate%20logo.svg" alt="Animate Social Care logo" width="1033" height="889" /><p>Therapeutic residential care for children aged 8-17 with emotional and behavioural difficulties.</p><p class="legal-note">Images are illustrative and do not depict residents of Animate Care.</p></div><div><h3>Pages</h3><a href="our-home">Our Home</a><a href="services">Services</a><a href="referrals">Referrals</a><a href="leadership">Leadership</a></div><div><h3>Contact</h3><a href="tel:+441184400118">0118 440 0118</a><a href="mailto:info@animatecare.co.uk">info@animatecare.co.uk</a><a href="mailto:careers@animatecare.co.uk">careers@animatecare.co.uk</a></div><div><h3>Regulated Care</h3><p>Ofsted regulated children's home operating under the Children's Homes (England) Regulations 2015.</p></div></div><div class="footer-bottom"><span>Animate Care.</span><span><a href="contact">Contact</a></span></div></div></footer>
+    <footer class="site-footer"><div class="footer-inner"><div class="footer-grid"><div><img class="footer-logo" src="animate%20logo.svg" alt="Animate Social Care logo" width="1033" height="889" /><p>Therapeutic residential care for children aged 8-17 with emotional and behavioural difficulties.</p><p class="legal-note">Images are illustrative and do not depict residents of Animate Care.</p></div><div><h3>Pages</h3><a href="our-home.html">Our Home</a><a href="services.html">Services</a><a href="referrals.html">Referrals</a><a href="leadership.html">Leadership</a></div><div><h3>Contact</h3><a href="tel:+441184400118">0118 440 0118</a><a href="mailto:info@animatecare.co.uk">info@animatecare.co.uk</a><a href="mailto:careers@animatecare.co.uk">careers@animatecare.co.uk</a></div><div><h3>Regulated Care</h3><p>Ofsted regulated children's home operating under the Children's Homes (England) Regulations 2015.</p></div></div><div class="footer-bottom"><span>Animate Care.</span><span><a href="contact.html">Contact</a></span></div></div></footer>
     <script src="script.js" defer></script>
     <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js" defer></script>
     <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js" defer></script>
