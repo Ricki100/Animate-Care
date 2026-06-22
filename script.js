@@ -117,7 +117,7 @@ function setupMotion() {
 
     window.gsap.utils.toArray(".hero").forEach((hero) => {
       window.gsap.to(hero, {
-        backgroundPosition: "50% 62%",
+        "--hero-position": "50% 62%",
         ease: "none",
         scrollTrigger: {
           trigger: hero,
