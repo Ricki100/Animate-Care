@@ -100,7 +100,7 @@ function setupMotion() {
   if (prefersReducedMotion) return;
 
   const revealTargets = document.querySelectorAll(
-    ".section > *, .quote-band, .card, .feature, .role, .contact-panel, .image-panel"
+    ".section > *, .quote-band, .card, .feature, .role, .contact-panel, .image-panel, .gallery-item"
   );
 
   if (window.gsap && window.ScrollTrigger) {
@@ -255,10 +255,84 @@ function setupPacePanels() {
   });
 }
 
+function setupLightbox() {
+  const items = Array.from(document.querySelectorAll("[data-lightbox-src]"));
+  if (!items.length) return;
+
+  const lightbox = document.createElement("div");
+  lightbox.className = "lightbox";
+  lightbox.setAttribute("role", "dialog");
+  lightbox.setAttribute("aria-modal", "true");
+  lightbox.setAttribute("aria-label", "Image preview");
+  lightbox.innerHTML = `
+    <button class="lightbox-close" type="button" aria-label="Close image preview">&times;</button>
+    <button class="lightbox-prev" type="button" aria-label="Previous image">&lsaquo;</button>
+    <img alt="" />
+    <button class="lightbox-next" type="button" aria-label="Next image">&rsaquo;</button>
+    <p class="lightbox-caption"></p>
+  `;
+  document.body.append(lightbox);
+
+  const image = lightbox.querySelector("img");
+  const caption = lightbox.querySelector(".lightbox-caption");
+  const closeButton = lightbox.querySelector(".lightbox-close");
+  const prevButton = lightbox.querySelector(".lightbox-prev");
+  const nextButton = lightbox.querySelector(".lightbox-next");
+  let activeIndex = 0;
+  let lastFocused = null;
+
+  const showImage = (index) => {
+    activeIndex = (index + items.length) % items.length;
+    const item = items[activeIndex];
+    const src = item.dataset.lightboxSrc;
+    const label = item.dataset.lightboxCaption || item.querySelector("img")?.alt || "Mardle House photo";
+    image.src = src;
+    image.alt = label;
+    caption.textContent = label;
+  };
+
+  const openLightbox = (index) => {
+    lastFocused = document.activeElement;
+    showImage(index);
+    lightbox.classList.add("is-open");
+    document.body.classList.add("lightbox-open");
+    closeButton.focus();
+  };
+
+  const closeLightbox = () => {
+    lightbox.classList.remove("is-open");
+    document.body.classList.remove("lightbox-open");
+    image.removeAttribute("src");
+    if (lastFocused && typeof lastFocused.focus === "function") {
+      lastFocused.focus();
+    }
+  };
+
+  items.forEach((item, index) => {
+    item.addEventListener("click", () => openLightbox(index));
+  });
+
+  closeButton.addEventListener("click", closeLightbox);
+  prevButton.addEventListener("click", () => showImage(activeIndex - 1));
+  nextButton.addEventListener("click", () => showImage(activeIndex + 1));
+
+  lightbox.addEventListener("click", (event) => {
+    if (event.target === lightbox) closeLightbox();
+  });
+
+  document.addEventListener("keydown", (event) => {
+    if (!lightbox.classList.contains("is-open")) return;
+    if (event.key === "Escape") closeLightbox();
+    if (event.key === "ArrowLeft") showImage(activeIndex - 1);
+    if (event.key === "ArrowRight") showImage(activeIndex + 1);
+  });
+}
+
 window.addEventListener("DOMContentLoaded", () => {
   setupCursor();
   setupScrollProgress();
   setupMotion();
   setupForms();
   setupPacePanels();
+  setupLightbox();
 });
