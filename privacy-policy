@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Privacy Policy | Animate Care</title>
+    <meta name="description" content="Read how Animate Social Care Ltd collects, uses, protects and deletes personal information submitted through the Animate Care website." />
+    <link rel="canonical" href="https://www.animatecare.co.uk/privacy-policy" />
+    <meta name="robots" content="index,follow" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header"><nav class="nav-shell" aria-label="Main navigation"><a class="brand" href="index.html"><img src="ANIMATE%20HORIZONTAL.svg" alt="Animate Social Care logo" width="184" height="63" /></a><button class="nav-toggle" type="button" data-nav-toggle aria-expanded="false" aria-controls="nav-links">Menu</button><div class="nav-links" id="nav-links" data-nav-links><a href="about.html">About</a><a href="our-home.html">Our Home</a><a href="services.html">Services</a><a href="referrals.html">Referrals</a><a href="careers.html">Careers</a><a href="contact.html">Contact</a><a class="button" href="contact.html#contact-form">Make a Referral</a></div></nav></header>
+    <main id="main">
+      <section class="policy-hero">
+        <p class="section-label">Privacy</p>
+        <h1>Privacy Policy</h1>
+        <p>Last updated: 7 July 2026</p>
+      </section>
+      <section class="section policy-content">
+        <p>This policy explains how Animate Social Care Ltd, trading as Animate Care, handles personal information submitted through this website.</p>
+        <h2>Who We Are</h2>
+        <p>Animate Social Care Ltd is registered in England and Wales. Company number 17081362. Registered office: Suite B, Sapphire House, Roundtree Way, Norwich, NR7 8SQ.</p>
+        <p>For privacy requests, email <a href="mailto:support@animatesocialcare.co.uk">support@animatesocialcare.co.uk</a> or call <a href="tel:+447984120758">07984120758</a>.</p>
+        <h2>Information We Collect</h2>
+        <p>When you contact us, make a referral enquiry or apply for a role, we may collect your name, organisation, role, phone number, email address, reason for contact and message content. Please do not send highly sensitive information about a child through the website form unless it is necessary for your enquiry.</p>
+        <h2>Why We Use It</h2>
+        <p>We use personal information to respond to enquiries, discuss referrals, manage recruitment interest, keep appropriate records, meet safeguarding obligations and comply with legal or regulatory duties.</p>
+        <h2>Lawful Basis</h2>
+        <p>Depending on the enquiry, we rely on consent, legitimate interests, legal obligation, vital interests or steps needed before entering a contract. Safeguarding information may need to be handled where necessary to protect children or meet statutory duties.</p>
+        <h2>Who We Share It With</h2>
+        <p>We only share information where necessary, such as with placing authorities, safeguarding partners, regulators, professional advisers, website form providers or IT support providers. We do not sell personal information.</p>
+        <h2>How Long We Keep It</h2>
+        <p>General website enquiries are normally kept only for as long as needed to respond and maintain a reasonable business record. Referral, safeguarding, complaints and recruitment records may be kept for longer where required by law, regulation, safer recruitment practice or legitimate operational need.</p>
+        <h2>Your Rights</h2>
+        <p>You can ask to access, correct, delete, restrict or object to the use of your personal information. You can also withdraw consent where we rely on consent. Some requests may be limited where we must keep information for safeguarding, regulatory or legal reasons.</p>
+        <h2>Data Deletion Requests</h2>
+        <p>To request deletion of your personal information, email <a href="mailto:support@animatesocialcare.co.uk?subject=Data%20deletion%20request">support@animatesocialcare.co.uk</a> with the subject line "Data deletion request". We will verify the request and respond within one month unless a lawful reason requires us to keep some information.</p>
+        <h2>Security</h2>
+        <p>We use appropriate technical and organisational measures to protect personal information, including secure transmission where the website is served over HTTPS. No website or email system can be guaranteed completely secure.</p>
+        <h2>Complaints</h2>
+        <p>If you are unhappy with how we handle your information, contact us first so we can try to resolve it. You can also complain to the Information Commissioner's Office at <a href="https://ico.org.uk/make-a-complaint/" rel="noopener">ico.org.uk/make-a-complaint</a>.</p>
+      </section>
+    </main>
+    <footer class="site-footer" id="footer">
+      <div class="footer-inner">
+        <div class="footer-grid">
+          <div class="footer-brand-block">
+            <img class="footer-logo" src="animate%20logo.svg" alt="Animate Social Care logo" width="1033" height="889" />
+            <p>Therapeutic residential care for children aged 8-17 with emotional and behavioural difficulties.</p>
+            <p class="legal-note">Images are illustrative and do not depict residents of Animate Care.</p>
+          </div>
+          <nav class="footer-column" aria-label="Footer pages">
+            <h3>Pages</h3>
+            <a href="about.html">About</a>
+            <a href="our-home.html">Our Home</a>
+            <a href="services.html">Services</a>
+            <a href="referrals.html">Referrals</a>
+            <a href="careers.html">Careers</a>
+            <a href="leadership.html">Leadership</a>
+            <a href="contact.html">Contact</a>
+          </nav>
+          <div class="footer-column">
+            <h3>Contact</h3>
+            <a href="tel:+447984120758">07984120758</a>
+            <a href="mailto:support@animatesocialcare.co.uk">support@animatesocialcare.co.uk</a>
+            <a href="mailto:careers@animatesocialcare.co.uk">careers@animatesocialcare.co.uk</a>
+          </div>
+          <div class="footer-column footer-regulated">
+            <h3>Regulated Care</h3>
+            <p>Ofsted regulated children's home operating under the Children's Homes (England) Regulations 2015.</p>
+          </div>
+        </div>
+        <div class="footer-bottom">
+          <span>Animate Social Care Ltd. Registered in England and Wales. Company number 17081362.</span>
+          <span class="footer-links"><a href="privacy-policy.html">Privacy Policy</a><a href="cookie-policy.html">Cookie Policy</a></span>
+        </div>
+      </div>
+    </footer>
+    <script src="script.js" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js" defer></script>
+  </body>
+</html>

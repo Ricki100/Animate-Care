@@ -252,6 +252,97 @@ function setupForms() {
   });
 }
 
+function setupCookieConsent() {
+  const storageKey = "animateCookiePreference";
+  const sessionKey = "animateCookieBannerSeen";
+  const storage = {
+    get() {
+      try {
+        return window.localStorage.getItem(storageKey);
+      } catch (error) {
+        return null;
+      }
+    },
+    set(value) {
+      try {
+        window.localStorage.setItem(storageKey, value);
+      } catch (error) {
+        return;
+      }
+    },
+    remove() {
+      try {
+        window.localStorage.removeItem(storageKey);
+      } catch (error) {
+        return;
+      }
+    },
+  };
+  const session = {
+    get() {
+      try {
+        return window.sessionStorage.getItem(sessionKey);
+      } catch (error) {
+        return null;
+      }
+    },
+    set() {
+      try {
+        window.sessionStorage.setItem(sessionKey, "true");
+      } catch (error) {
+        return;
+      }
+    },
+    remove() {
+      try {
+        window.sessionStorage.removeItem(sessionKey);
+      } catch (error) {
+        return;
+      }
+    },
+  };
+  const existing = storage.get();
+  const banner = document.createElement("section");
+  banner.className = "cookie-banner";
+  banner.setAttribute("aria-label", "Cookie preference");
+  banner.innerHTML = `
+    <p>We use essential browser storage to run this site and remember your cookie choice. Optional analytics or marketing cookies will only be used if you accept them. <a href="cookie-policy.html">Read our Cookie Policy</a>.</p>
+    <div class="cookie-actions">
+      <button class="button secondary" type="button" data-cookie-choice="reject">Reject optional cookies</button>
+      <button class="button" type="button" data-cookie-choice="accept">Accept optional cookies</button>
+    </div>
+  `;
+  document.body.append(banner);
+
+  const setPreference = (preference) => {
+    storage.set(preference);
+    document.documentElement.dataset.cookiePreference = preference;
+    banner.classList.remove("is-visible");
+  };
+
+  if (existing) {
+    document.documentElement.dataset.cookiePreference = existing;
+  } else if (!session.get()) {
+    banner.classList.add("is-visible");
+    session.set();
+  }
+
+  banner.querySelectorAll("[data-cookie-choice]").forEach((button) => {
+    button.addEventListener("click", () => setPreference(button.dataset.cookieChoice));
+  });
+
+  document.querySelectorAll("[data-cookie-reset]").forEach((button) => {
+    button.addEventListener("click", () => {
+      storage.remove();
+      session.remove();
+      delete document.documentElement.dataset.cookiePreference;
+      banner.classList.add("is-visible");
+      session.set();
+      banner.querySelector("[data-cookie-choice]")?.focus();
+    });
+  });
+}
+
 function setupPacePanels() {
   document.querySelectorAll("[data-pace-panel]").forEach((panel) => {
     const tabs = Array.from(panel.querySelectorAll("[data-pace-tab]"));
@@ -366,6 +457,7 @@ window.addEventListener("DOMContentLoaded", () => {
   setupHomeHeroFade();
   setupMotion();
   setupForms();
+  setupCookieConsent();
   setupPacePanels();
   setupLightbox();
 });

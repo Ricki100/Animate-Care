@@ -39,7 +39,41 @@
           <div class="journey-grid"><a class="journey-card" href="services.html"><div><small>Care offer</small><strong>Confirm the support available</strong></div><span>Services</span></a><a class="journey-card" href="our-home.html"><div><small>Setting</small><strong>Understand the home environment</strong></div><span>Our home</span></a><a class="journey-card" href="contact.html"><div><small>Direct route</small><strong>Call or email the team</strong></div><span>Contact</span></a></div>
         </div>
       </section>    </main>
-    <footer class="site-footer"><div class="footer-inner"><div class="footer-grid"><div><img class="footer-logo" src="animate%20logo.svg" alt="Animate Social Care logo" width="1033" height="889" /><p>Therapeutic residential care for children aged 8-17 with emotional and behavioural difficulties.</p><p class="legal-note">Images are illustrative and do not depict residents of Animate Care.</p></div><div><h3>Pages</h3><a href="about.html">About</a><a href="our-home.html">Our Home</a><a href="services.html">Services</a></div><div><h3>Contact</h3><a href="tel:+447984120758">07984120758</a><a href="mailto:support@animatesocialcare.co.uk">support@animatesocialcare.co.uk</a><a href="mailto:careers@animatesocialcare.co.uk">careers@animatesocialcare.co.uk</a></div><div><h3>Regulated Care</h3><p>Ofsted regulated children's home operating under the Children's Homes (England) Regulations 2015.</p></div></div><div class="footer-bottom"><span>Animate Social Care Ltd. Registered in England and Wales. Company number 17081362.</span><span><a href="contact.html">Contact</a></span></div></div></footer>
+    <footer class="site-footer" id="footer">
+      <div class="footer-inner">
+        <div class="footer-grid">
+          <div class="footer-brand-block">
+            <img class="footer-logo" src="animate%20logo.svg" alt="Animate Social Care logo" width="1033" height="889" />
+            <p>Therapeutic residential care for children aged 8-17 with emotional and behavioural difficulties.</p>
+            <p class="legal-note">Images are illustrative and do not depict residents of Animate Care.</p>
+          </div>
+          <nav class="footer-column" aria-label="Footer pages">
+            <h3>Pages</h3>
+            <a href="about.html">About</a>
+            <a href="our-home.html">Our Home</a>
+            <a href="services.html">Services</a>
+            <a href="referrals.html">Referrals</a>
+            <a href="careers.html">Careers</a>
+            <a href="leadership.html">Leadership</a>
+            <a href="contact.html">Contact</a>
+          </nav>
+          <div class="footer-column">
+            <h3>Contact</h3>
+            <a href="tel:+447984120758">07984120758</a>
+            <a href="mailto:support@animatesocialcare.co.uk">support@animatesocialcare.co.uk</a>
+            <a href="mailto:careers@animatesocialcare.co.uk">careers@animatesocialcare.co.uk</a>
+          </div>
+          <div class="footer-column footer-regulated">
+            <h3>Regulated Care</h3>
+            <p>Ofsted regulated children's home operating under the Children's Homes (England) Regulations 2015.</p>
+          </div>
+        </div>
+        <div class="footer-bottom">
+          <span>Animate Social Care Ltd. Registered in England and Wales. Company number 17081362.</span>
+          <span class="footer-links"><a href="privacy-policy.html">Privacy Policy</a><a href="cookie-policy.html">Cookie Policy</a></span>
+        </div>
+      </div>
+    </footer>
     <script src="script.js" defer></script>
     <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js" defer></script>
     <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js" defer></script>

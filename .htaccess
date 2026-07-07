@@ -4,10 +4,15 @@ DirectoryIndex index.html
 RewriteEngine On
 
 # Treat clean extensionless page files as HTML if the host serves them directly.
-<FilesMatch "^(about|leadership|our-home|services|referrals|careers|contact)$">
+<FilesMatch "^(about|leadership|our-home|services|referrals|careers|contact|privacy-policy|cookie-policy)$">
   ForceType text/html
   AddDefaultCharset UTF-8
 </FilesMatch>
+
+# Require HTTPS on live hosting. The host must have a valid SSL/TLS certificate installed.
+RewriteCond %{HTTPS} !=on
+RewriteCond %{HTTP_HOST} !^(localhost|127\.0\.0\.1)$ [NC]
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
 
 # Redirect direct .html requests to clean extensionless URLs.
 RewriteCond %{THE_REQUEST} \s/+(.+?)\.html[\s?] [NC]
@@ -31,4 +36,12 @@ RewriteRule ^index/?$ / [R=301,L]
   ExpiresByType image/svg+xml "access plus 1 year"
   ExpiresByType text/css "access plus 1 month"
   ExpiresByType application/javascript "access plus 1 month"
+</IfModule>
+
+<IfModule mod_headers.c>
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set X-Frame-Options "SAMEORIGIN"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set Permissions-Policy "camera=(), microphone=(), geolocation=()"
+  Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains" "expr=%{HTTPS} == 'on'"
 </IfModule>
