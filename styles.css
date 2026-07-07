@@ -678,6 +678,10 @@ h3 {
   margin: 12px 0 0;
 }
 
+.contact-panel a {
+  overflow-wrap: anywhere;
+}
+
 .profile-card {
   display: grid;
   gap: 28px;

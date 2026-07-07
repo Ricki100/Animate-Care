@@ -21,10 +21,10 @@
         "@context": "https://schema.org",
         "@graph": [
           {"@type": "AboutPage", "@id": "https://www.animatecare.co.uk/about", "name": "About Animate Care", "isPartOf": {"@id": "https://www.animatecare.co.uk/#website"}},
-          {"@type": "Person", "name": "Tapiwa Kunodro", "jobTitle": "Responsible Individual", "worksFor": {"@id": "https://www.animatecare.co.uk/#organization"}},
+          {"@type": "Person", "name": "Taps Kundoro", "jobTitle": "Responsible Individual", "worksFor": {"@id": "https://www.animatecare.co.uk/#organization"}},
           {"@type": "Person", "name": "Toni Berry", "jobTitle": "Registered Manager", "worksFor": {"@id": "https://www.animatecare.co.uk/#organization"}},
           {"@type": "FAQPage", "mainEntity": [
-            {"@type": "Question", "name": "Who runs Animate Care?", "acceptedAnswer": {"@type": "Answer", "text": "Animate Care is led by Tapiwa Kunodro as Responsible Individual and Toni Berry as Registered Manager."}},
+            {"@type": "Question", "name": "Who runs Animate Care?", "acceptedAnswer": {"@type": "Answer", "text": "Animate Care is led by Taps Kundoro as Responsible Individual and Toni Berry as Registered Manager."}},
             {"@type": "Question", "name": "What regulations does Animate Care follow?", "acceptedAnswer": {"@type": "Answer", "text": "Animate Care operates under the Children's Homes (England) Regulations 2015, the Care Standards Act 2000 and the Children's Acts 1989 and 2004."}},
             {"@type": "Question", "name": "What is the PACE model?", "acceptedAnswer": {"@type": "Answer", "text": "PACE stands for Playfulness, Acceptance, Curiosity and Empathy. It is a trauma-informed therapeutic framework used in daily practice at Animate Care."}}
           ]}
@@ -121,13 +121,13 @@
         <div class="grid two">
           <article class="role staff-preview-card">
             <div class="staff-preview-photo">
-              <img src="images/staff/taps.webp" alt="Tapiwa Kunodro, Responsible Individual at Animate Care" loading="lazy" width="279" height="320" />
+              <img src="images/staff/taps.webp" alt="Taps Kundoro, Responsible Individual at Animate Care" loading="lazy" width="279" height="320" />
             </div>
             <div>
-              <h3>Tapiwa Kunodro</h3>
+              <h3>Taps Kundoro</h3>
               <span class="staff-preview-role">Responsible Individual</span>
-              <p>Tapiwa has a substantial background in child protection, supported accommodation management, youth work, early help, fostering services, Regulation 44 visiting and care management.</p>
-              <a href="leadership.html#responsible-individual">Read Tapiwa's profile</a>
+              <p>Taps has a substantial background in child protection, supported accommodation management, youth work, early help, fostering services, Regulation 44 visiting and care management.</p>
+              <a href="leadership.html#responsible-individual">Read Taps' profile</a>
             </div>
           </article>
           <article class="role staff-preview-card">
@@ -163,7 +163,7 @@
         
         <h2>About Animate Care: questions answered</h2>
         <div class="faq-list">
-          <details class="faq-item"><summary>Who runs Animate Care?</summary><p>Animate Care is led by Tapiwa Kunodro as Responsible Individual and Toni Berry as Registered Manager.</p></details>
+          <details class="faq-item"><summary>Who runs Animate Care?</summary><p>Animate Care is led by Taps Kundoro as Responsible Individual and Toni Berry as Registered Manager.</p></details>
           <details class="faq-item"><summary>What regulations does Animate Care follow?</summary><p>Animate Care operates under the Children's Homes (England) Regulations 2015, the Care Standards Act 2000 and the Children's Acts 1989 and 2004.</p></details>
           <details class="faq-item"><summary>What is the PACE model?</summary><p>PACE stands for Playfulness, Acceptance, Curiosity and Empathy. It underpins daily practice and helps children feel safe enough to engage.</p></details>
           <details class="faq-item"><summary>How does Animate Care involve children in their own care?</summary><p>Children participate in Placement Plans, regular meetings and daily decisions, supported by key workers who advocate for their views and needs.</p></details>
@@ -176,7 +176,7 @@
         </div>
       </section>    </main>
 
-    <footer class="site-footer"><div class="footer-inner"><div class="footer-grid"><div><img class="footer-logo" src="animate%20logo.svg" alt="Animate Social Care logo" width="1033" height="889" /><p>Therapeutic residential care for children aged 8-17 with emotional and behavioural difficulties.</p><p class="legal-note">Images are illustrative and do not depict residents of Animate Care.</p></div><div><h3>Pages</h3><a href="our-home.html">Our Home</a><a href="services.html">Services</a><a href="referrals.html">Referrals</a><a href="leadership.html">Leadership</a></div><div><h3>Contact</h3><a href="tel:+441184400118">0118 440 0118</a><a href="mailto:info@animatecare.co.uk">info@animatecare.co.uk</a><a href="mailto:careers@animatecare.co.uk">careers@animatecare.co.uk</a></div><div><h3>Regulated Care</h3><p>Ofsted regulated children's home operating under the Children's Homes (England) Regulations 2015.</p></div></div><div class="footer-bottom"><span>Animate Care.</span><span><a href="contact.html">Contact</a></span></div></div></footer>
+    <footer class="site-footer"><div class="footer-inner"><div class="footer-grid"><div><img class="footer-logo" src="animate%20logo.svg" alt="Animate Social Care logo" width="1033" height="889" /><p>Therapeutic residential care for children aged 8-17 with emotional and behavioural difficulties.</p><p class="legal-note">Images are illustrative and do not depict residents of Animate Care.</p></div><div><h3>Pages</h3><a href="our-home.html">Our Home</a><a href="services.html">Services</a><a href="referrals.html">Referrals</a><a href="leadership.html">Leadership</a></div><div><h3>Contact</h3><a href="tel:+447984120758">07984120758</a><a href="mailto:support@animatesocialcare.co.uk">support@animatesocialcare.co.uk</a><a href="mailto:careers@animatesocialcare.co.uk">careers@animatesocialcare.co.uk</a></div><div><h3>Regulated Care</h3><p>Ofsted regulated children's home operating under the Children's Homes (England) Regulations 2015.</p></div></div><div class="footer-bottom"><span>Animate Social Care Ltd. Registered in England and Wales. Company number 17081362.</span><span><a href="contact.html">Contact</a></span></div></div></footer>
     <script src="script.js" defer></script>
     <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js" defer></script>
     <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js" defer></script>
