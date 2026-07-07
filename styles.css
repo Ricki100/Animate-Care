@@ -293,6 +293,16 @@ a:hover {
   align-items: center;
 }
 
+.about-hero {
+  --hero-position: 58% center;
+}
+
+.about-hero::after {
+  background:
+    linear-gradient(90deg, rgba(60, 30, 20, 0.78), rgba(60, 30, 20, 0.32) 48%, rgba(60, 30, 20, 0.04) 78%),
+    linear-gradient(0deg, rgba(60, 30, 20, 0.6), rgba(60, 30, 20, 0.02) 48%);
+}
+
 .contact-hero .hero-inner {
   padding-block: clamp(86px, 10vh, 118px);
 }

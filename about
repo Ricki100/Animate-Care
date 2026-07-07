@@ -10,7 +10,7 @@
     <meta property="og:description" content="Our mission, values, PACE ethos and leadership for therapeutic children's residential care." />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="https://www.animatecare.co.uk/about" />
-    <meta property="og:image" content="https://www.animatecare.co.uk/images/mother-her-afro-american-daughter-drawing-together-painting-hand-making-prints-paper.webp" />
+    <meta property="og:image" content="https://www.animatecare.co.uk/images/joyful-art-session-home-with-child-caregiver.webp" />
     <meta name="twitter:card" content="summary_large_image" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -45,7 +45,7 @@
     </header>
 
     <main id="main">
-      <section class="hero" style="--hero-image: url('images/mother-her-afro-american-daughter-drawing-together-painting-hand-making-prints-paper.webp')">
+      <section class="hero about-hero" style="--hero-image: url('images/joyful-art-session-home-with-child-caregiver.webp')">
         <div class="hero-inner">
           <div class="hero-copy">
             <p class="eyebrow">About Animate Care</p>
