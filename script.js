@@ -213,7 +213,7 @@ function setupForms() {
         }
       } catch (error) {
         if (status) {
-          status.textContent = "The form could not send. Please call 0118 440 0118 or email info@animatecare.co.uk.";
+          status.textContent = "The form could not send. Please call 07984120758 or email support@animatesocialcare.co.uk.";
         }
       }
     });
