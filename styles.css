@@ -362,17 +362,30 @@ h3 {
 
 .home-hero {
   --hero-position: 44% center;
+  --hero-content-opacity: 1;
+  --hero-content-y: 0px;
+  --hero-overlay-opacity: 1;
+}
+
+.home-hero::before {
+  background-attachment: fixed;
+  transform: none;
 }
 
 .home-hero::after {
   background:
-    linear-gradient(90deg, rgba(60, 30, 20, 0.08), rgba(60, 30, 20, 0.28) 42%, rgba(60, 30, 20, 0.84)),
-    linear-gradient(0deg, rgba(60, 30, 20, 0.72), rgba(60, 30, 20, 0.04) 46%);
+    linear-gradient(90deg, rgba(60, 30, 20, 0.84), rgba(60, 30, 20, 0.42) 40%, rgba(60, 30, 20, 0.1) 74%),
+    linear-gradient(0deg, rgba(60, 30, 20, 0.64), rgba(60, 30, 20, 0.04) 52%);
+  opacity: var(--hero-overlay-opacity);
 }
 
 .home-hero .hero-copy {
-  margin-left: auto;
+  margin-left: 0;
   max-width: 650px;
+  text-align: left;
+  opacity: var(--hero-content-opacity);
+  transform: translateY(var(--hero-content-y));
+  will-change: opacity, transform;
 }
 
 .hero-actions,
@@ -1675,6 +1688,11 @@ body.header-scrolled .service-nav {
 
   .home-hero {
     --hero-position: 38% center;
+  }
+
+  .home-hero::before {
+    background-attachment: scroll;
+    transform: scale(1.02);
   }
 
   .home-hero::after {

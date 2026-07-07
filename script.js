@@ -96,6 +96,38 @@ function setupScrollProgress() {
   window.addEventListener("resize", update);
 }
 
+function setupHomeHeroFade() {
+  const hero = document.querySelector(".home-hero");
+  const copy = hero?.querySelector(".hero-copy");
+  if (!hero || !copy || prefersReducedMotion) return;
+
+  let ticking = false;
+
+  const update = () => {
+    const rect = hero.getBoundingClientRect();
+    const fadeDistance = Math.min(window.innerHeight * 0.55, 520);
+    const progress = Math.min(Math.max(-rect.top / fadeDistance, 0), 1);
+    const contentOpacity = Math.max(1 - progress * 1.2, 0);
+    const overlayOpacity = Math.max(1 - progress * 0.72, 0.28);
+
+    hero.style.setProperty("--hero-content-opacity", contentOpacity.toFixed(3));
+    hero.style.setProperty("--hero-content-y", `${(-22 * progress).toFixed(1)}px`);
+    hero.style.setProperty("--hero-overlay-opacity", overlayOpacity.toFixed(3));
+    copy.style.pointerEvents = contentOpacity < 0.15 ? "none" : "";
+    ticking = false;
+  };
+
+  const requestUpdate = () => {
+    if (ticking) return;
+    ticking = true;
+    requestAnimationFrame(update);
+  };
+
+  update();
+  window.addEventListener("scroll", requestUpdate, { passive: true });
+  window.addEventListener("resize", requestUpdate);
+}
+
 function setupMotion() {
   if (prefersReducedMotion) return;
 
@@ -115,7 +147,7 @@ function setupMotion() {
       clearProps: "transform",
     });
 
-    window.gsap.utils.toArray(".hero").forEach((hero) => {
+    window.gsap.utils.toArray(".hero:not(.home-hero)").forEach((hero) => {
       window.gsap.to(hero, {
         "--hero-position": "50% 62%",
         ease: "none",
@@ -331,6 +363,7 @@ function setupLightbox() {
 window.addEventListener("DOMContentLoaded", () => {
   setupCursor();
   setupScrollProgress();
+  setupHomeHeroFade();
   setupMotion();
   setupForms();
   setupPacePanels();
