@@ -22,7 +22,7 @@
   </head>
   <body>
     <a class="skip-link" href="#main">Skip to content</a>
-    <header class="site-header"><nav class="nav-shell" aria-label="Main navigation"><a class="brand" href="index.html"><img src="ANIMATE%20HORIZONTAL.svg" alt="Animate Social Care logo" width="184" height="63" /></a><button class="nav-toggle" type="button" data-nav-toggle aria-expanded="false" aria-controls="nav-links">Menu</button><div class="nav-links" id="nav-links" data-nav-links><a href="about.html">About</a><a href="our-home.html">Our Home</a><a href="services.html">Services</a><a href="referrals.html">Referrals</a><a href="careers.html">Careers</a><a href="contact.html" aria-current="page">Contact</a><a class="button" href="contact.html#contact-form">Make a Referral</a></div></nav></header>
+    <header class="site-header"><nav class="nav-shell" aria-label="Main navigation"><a class="brand" href="/"><img src="ANIMATE%20HORIZONTAL.svg" alt="Animate Social Care logo" width="184" height="63" /></a><button class="nav-toggle" type="button" data-nav-toggle aria-expanded="false" aria-controls="nav-links">Menu</button><div class="nav-links" id="nav-links" data-nav-links><a href="/about">About</a><a href="/our-home">Our Home</a><a href="/services">Services</a><a href="/referrals">Referrals</a><a href="/careers">Careers</a><a href="/contact" aria-current="page">Contact</a><a class="button" href="/contact#contact-form">Make a Referral</a></div></nav></header>
     <main id="main">
       <section class="hero contact-hero" style="--hero-image: url('images/child-getting-education-home.webp')"><div class="hero-inner"><div class="hero-copy"><p class="eyebrow">Contact</p><h1>Get in touch with<br class="mobile-break" /> our team</h1><p>Whether you are making a referral, asking about a child in our care, applying for a role or looking for general information, we are here and happy to talk.</p><div class="hero-actions"><a class="button" href="#contact-form">Send a Message</a><a class="button secondary" href="tel:+447984120758">Call 07984120758</a></div></div></div></section>
       <section class="section contact-grid">
@@ -38,7 +38,7 @@
           <div class="field"><label for="phone">Phone</label><input id="phone" name="phone" autocomplete="tel" /></div>
           <div class="field"><label for="email">Email</label><input id="email" type="email" name="email" autocomplete="email" required /></div>
           <div class="field"><label for="message">Message</label><textarea id="message" name="message" required></textarea></div>
-          <label class="consent"><input type="checkbox" required /><span>I consent to Animate Care contacting me about this enquiry and confirm I have read the <a href="privacy-policy.html">Privacy Policy</a>. For urgent safeguarding or referral matters, I will call directly.</span></label>
+          <label class="consent"><input type="checkbox" required /><span>I consent to Animate Care contacting me about this enquiry and confirm I have read the <a href="/privacy-policy">Privacy Policy</a>. For urgent safeguarding or referral matters, I will call directly.</span></label>
           <button class="button" type="submit">Submit enquiry</button>
           <p class="form-status" data-form-status aria-live="polite"></p>
         </form>
@@ -49,7 +49,7 @@
       <section class="band">
         <div class="section journey-section">
           <div class="journey-head"><div><p class="section-label">Helpful context</p><h2>Choose the page that matches your enquiry</h2></div><p>If you are not ready to send a message yet, these pages answer the most common questions before families, professionals and applicants get in touch.</p></div>
-          <div class="journey-grid"><a class="journey-card" href="referrals.html"><div><small>Placement enquiry</small><strong>See referral criteria and documents</strong></div><span>Referrals</span></a><a class="journey-card" href="careers.html"><div><small>Work with us</small><strong>Explore roles and safer recruitment</strong></div><span>Careers</span></a><a class="journey-card" href="our-home.html"><div><small>Children's home</small><strong>Learn about the environment</strong></div><span>Our home</span></a></div>
+          <div class="journey-grid"><a class="journey-card" href="/referrals"><div><small>Placement enquiry</small><strong>See referral criteria and documents</strong></div><span>Referrals</span></a><a class="journey-card" href="/careers"><div><small>Work with us</small><strong>Explore roles and safer recruitment</strong></div><span>Careers</span></a><a class="journey-card" href="/our-home"><div><small>Children's home</small><strong>Learn about the environment</strong></div><span>Our home</span></a></div>
         </div>
       </section>    </main>
     <footer class="site-footer" id="footer">
@@ -62,13 +62,13 @@
           </div>
           <nav class="footer-column" aria-label="Footer pages">
             <h3>Pages</h3>
-            <a href="about.html">About</a>
-            <a href="our-home.html">Our Home</a>
-            <a href="services.html">Services</a>
-            <a href="referrals.html">Referrals</a>
-            <a href="careers.html">Careers</a>
-            <a href="leadership.html">Leadership</a>
-            <a href="contact.html">Contact</a>
+            <a href="/about">About</a>
+            <a href="/our-home">Our Home</a>
+            <a href="/services">Services</a>
+            <a href="/referrals">Referrals</a>
+            <a href="/careers">Careers</a>
+            <a href="/leadership">Leadership</a>
+            <a href="/contact">Contact</a>
           </nav>
           <div class="footer-column">
             <h3>Contact</h3>
@@ -77,13 +77,13 @@
             <a href="mailto:careers@animatesocialcare.co.uk">careers@animatesocialcare.co.uk</a>
           </div>
           <div class="footer-column footer-regulated">
-            <h3>Regulated Care</h3>
-            <p>Ofsted regulated children's home operating under the Children's Homes (England) Regulations 2015.</p>
+            <h3>Registration Status</h3>
+            <p>Applying to register with Ofsted as a children's home under the Children's Homes (England) Regulations 2015.</p>
           </div>
         </div>
         <div class="footer-bottom">
           <span>Animate Social Care Ltd. Registered in England and Wales. Company number 17081362.</span>
-          <span class="footer-links"><a href="privacy-policy.html">Privacy Policy</a><a href="cookie-policy.html">Cookie Policy</a></span>
+          <span class="footer-links"><a href="/privacy-policy">Privacy Policy</a><a href="/cookie-policy">Cookie Policy</a></span>
         </div>
       </div>
     </footer>

@@ -306,7 +306,7 @@ function setupCookieConsent() {
   banner.className = "cookie-banner";
   banner.setAttribute("aria-label", "Cookie preference");
   banner.innerHTML = `
-    <p>We use essential browser storage to run this site and remember your cookie choice. Optional analytics or marketing cookies will only be used if you accept them. <a href="cookie-policy.html">Read our Cookie Policy</a>.</p>
+    <p>We use essential browser storage to run this site and remember your cookie choice. Optional analytics or marketing cookies will only be used if you accept them. <a href="/cookie-policy">Read our Cookie Policy</a>.</p>
     <div class="cookie-actions">
       <button class="button secondary" type="button" data-cookie-choice="reject">Reject optional cookies</button>
       <button class="button" type="button" data-cookie-choice="accept">Accept optional cookies</button>
